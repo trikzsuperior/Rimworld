@@ -1,0 +1,1497 @@
+Log uploaded on Wednesday, February 7, 2024, 10:26:20 AM
+Loaded mods:
+Harmony(brrainz.harmony)[mv:1.5.0.0]: 0Harmony(2.2.2), HarmonyMod(1.5.0)
+Core(Ludeon.RimWorld): (no assemblies)
+Royalty(Ludeon.RimWorld.Royalty): (no assemblies)
+Ideology(Ludeon.RimWorld.Ideology): (no assemblies)
+Biotech(Ludeon.RimWorld.Biotech): (no assemblies)
+HugsLib(UnlimitedHugs.HugsLib)[ov:10.0.1]: 0Harmony(av:2.2.2,fv:1.2.0.1), HugsLib(av:1.0.0,fv:10.0.1)
+Vanilla Expanded Framework(OskarPotocki.VanillaFactionsExpanded.Core): 0ModSettingsFramework(1.0.0), 0MultiplayerAPI(av:0.3.0,fv:0.3.0), 0PrepatcherAPI(1.1.1), ExplosiveTrailsEffect(1.0.7140.31563), GraphicCustomization(1.0.0), HeavyWeapons(1.0.0), KCSG(av:1.1.2,fv:23.10.29), MVCF(2.0.0.1), NoCamShakeExplosions(1.0.0), OPToxic(1.0.0), Outposts(av:3.0.0,fv:1.0.0), PipeSystem(av:1.0.1,fv:22.7.29), RecipeInheritance(1.0.1), RRO(1.0.0), SmokingGun(1.0.0), VanillaStorytellersExpanded(1.0.0), VanillaWeaponsExpandedLaser(0.0.0), VFECore(av:1.1.7,fv:1.1.9), VWEMakeshift(1.0.0)
+Humanoid Alien Races(erdelf.HumanoidAlienRaces): 0Harmony(2.2.2), AlienRace(1.0.0)
+MIM - WH40k Core(emitbreaker.MIM.WH40k.Core): MIM40kFactions(1.4.0.4)
+MIM - WH40k Weapons(emitbreaker.MIM.WH40k.Weapons): (no assemblies)
+MIM - WH40k Adepta Sororitas Core(emitbreaker.MIM.WH40k.AS.Core): (no assemblies)
+MIM - WH40k Adeptus Astartes Core(emitbreaker.MIM.WH40k.AA.Core): (no assemblies)
+MIM - WH40k Chaos Core(emitbreaker.MIM.WH40k.CH.Core): (no assemblies)
+MIM - WH40k Chaos Cult(emitbreaker.MIM.WH40k.CSM.CC): (no assemblies)
+MIM - WH40k Carcharodons(emitbreaker.MIM.WH40k.AA.CC): (no assemblies)
+MIM - WH40k Blood Angels(emitbreaker.MIM.WH40k.AA.BA): (no assemblies)
+MIM - WH40k Black Templars(emitbreaker.MIM.WH40k.AA.BT): (no assemblies)
+MIM - WH40k Crimson Fists(emitbreaker.MIM.WH40k.AA.CF): (no assemblies)
+MIM - WH40k Dark Angels(emitbreaker.MIM.WH40k.AA.DA): (no assemblies)
+MIM - WH40k Necron Core(emitbreaker.MIM.WH40k.NC.Core): (no assemblies)
+MIM - WH40k Sautekh(emitbreaker.MIM.WH40k.NC.SA): (no assemblies)
+MIM - WH40k Szarekhan(emitbreaker.MIM.WH40k.NC.SZ): (no assemblies)
+MIM - WH40k Death Guard(emitbreaker.MIM.WH40k.CSM.DG): (no assemblies)
+MIM - WH40k Emperors Children(emitbreaker.MIM.WH40k.CSM.EC): (no assemblies)
+MIM - WH40k Fallen Angels(emitbreaker.MIM.WH40k.CSM.FA): (no assemblies)
+MIM - WH40k Genestealer Cult Core(emitbreaker.MIM.WH40k.GC.Core): (no assemblies)
+MIM - WH40k Imperial Fists(emitbreaker.MIM.WH40k.AA.IF): (no assemblies)
+MIM - WH40k Iron Hands(emitbreaker.MIM.WH40k.AA.IH): (no assemblies)
+MIM - WH40k Minotaurs(emitbreaker.MIM.WH40k.AA.MN): (no assemblies)
+MIM - WH40k Order of Our Martyred Lady(emitbreaker.MIM.WH40k.AS.OML): (no assemblies)
+MIM - WH40k Order of the Bloody Rose(emitbreaker.MIM.WH40k.AS.OBR): (no assemblies)
+MIM - WH40k Raven Guard(emitbreaker.MIM.WH40k.AA.RG): (no assemblies)
+MIM - WH40k Salamanders(emitbreaker.MIM.WH40k.AA.SA): (no assemblies)
+MIM - WH40k Space Wolves(emitbreaker.MIM.WH40k.AA.SW): (no assemblies)
+MIM - WH40k The Hivecult(emitbreaker.MIM.WH40k.GC.HC): (no assemblies)
+MIM - WH40k Thousand Sons(emitbreaker.MIM.WH40k.CSM.TS): (no assemblies)
+MIM - WH40k Ultramarines(emitbreaker.MIM.WH40k.AA.UM): (no assemblies)
+MIM - WH40k White Scars(emitbreaker.MIM.WH40k.AA.WS): (no assemblies)
+MIM - WH40k World Eaters(emitbreaker.MIM.WH40k.CSM.WE): (no assemblies)
+[Obsolete] MIM - WH40k Factions Texture Pack(emitbreaker.ModIntegrationMod.40kFactions.Textures): (no assemblies)
+
+Active Harmony patches:
+AddictionUtility.CanBingeOnNow: post: AlienRace.HarmonyPatches.CanBingeNowPostfix
+AgeInjuryUtility.GenerateRandomOldAgeInjuries: PRE: AlienRace.HarmonyPatches.GenerateRandomOldAgeInjuriesPrefix
+AgeInjuryUtility.RandomHediffsToGainOnBirthday: post: AlienRace.HarmonyPatches.RandomHediffsToGainOnBirthdayPostfix
+Alert_BrawlerHasRangedWeapon.GetReport: PRE: MVCF.PatchSets.PatchSet_Brawlers.GetReport_Prefix
+Alert_LifeThreateningHediff.GetExplanation: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Alert_MechMissingBodyPart.HasMissingBodyPart: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+ApparelGraphicRecordGetter.TryGetGraphicApparel: TRANS: VFECore.Patch_ApparelGraphicRecordGetter_TryGetGraphicApparel_Transpiler.Transpiler, AlienRace.HarmonyPatches.TryGetGraphicApparelTranspiler
+ApparelProperties.PawnCanWear: post: AlienRace.HarmonyPatches.PawnCanWearPostfix
+ApparelUtility.GetApparelReplacedByNewApparel: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+ArmorUtility.ApplyArmor: TRANS: VFECore.Patch_ArmorUtility+ApplyArmor.Transpiler
+ArmorUtility.GetPostArmorDamage: PRE: VFECore.Patch_ArmorUtility+GetPostArmorDamage.Prefix
+BackCompatibilityConverter_0_18.PostExposeData: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BackstoryDef.BodyTypeFor: post: VFECore.BackstoryDef_BodyTypeFor_Patch.Postfix
+BackstoryDef.FullDescriptionFor: TRANS: VFECore.BackstoryDef_FullDescriptionFor_Patch.Transpiler
+BattleLogEntry_DamageTaken.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BattleLogEntry_ExplosionImpact.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BattleLogEntry_MeleeCombat.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BattleLogEntry_RangedImpact.DamagedBody: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+BedUtility.WillingToShareBed: post: AlienRace.HarmonyPatches.WillingToShareBedPostfix
+Bill.PawnAllowedToStartAnew: post: AlienRace.HarmonyPatches.PawnAllowedToStartAnewPostfix
+BreachingUtility.FindVerbToUseForBreaching: post: MVCF.PatchSets.PatchSet_MultiVerb.FindVerbToUseForBreaching
+Building.Destroy: PRE: VanillaFurnitureExpanded.Patch_BuildingDestroy.Prefix
+Building_CommsConsole.GetCommTargets: post: VFECore.Building_CommsConsole_GetCommTargets_Patch.Postfix
+Building_TurretGun.DrawExtraSelectionOverlays: post: VFECore.Building_TurretGun_DrawExtraSelectionOverlays_Patch.Postfix TRANS: VFECore.Building_TurretGun_DrawExtraSelectionOverlays_Transpiler.Transpiler
+Building_TurretGun.IsValidTarget: post: VFECore.Building_TurretGun_IsValidTarget_Patch.Postfix
+Caravan.GetGizmos: post: VFECore.Abilities.Caravan_GetGizmos_Patch.Postfix
+CaravanUIUtility.<>c.<AddPawnsSections>b__8_6: post: VFE.Mechanoids.CaravanUIUtility_AddPawnsSections_MechSection_Patch.Postfix
+CaravanUIUtility.AddPawnsSections: post: VFE.Mechanoids.CaravanUIUtility_AddPawnsSections_Patch.Postfix
+Caravan_NeedsTracker.TrySatisfyPawnNeeds: post: VFE.Mechanoids.TrySatisfyPawnNeeds_Patch.Postfix
+CharacterCardUtility.DrawCharacterCard: TRANS: AlienRace.HarmonyPatches.DrawCharacterCardTranspiler
+CharacterCardUtility.LifestageAndXenotypeOptions: TRANS: AlienRace.HarmonyPatches.LifestageAndXenotypeOptionsTranspiler
+ChoiceLetter_GrowthMoment.CacheLetterText: TRANS: AlienRace.HarmonyPatches.GrowthMomentCacheLetterTextTranspiler
+Command.GizmoOnGUIInt: TRANS: MVCF.PatchSets.PatchSet_IntegratedToggle.GizmoOnGUI_Transpile
+CompAssignableToPawn_Bed.get_AssigningCandidates: post: AlienRace.HarmonyPatches.AssigningCandidatesPostfix
+CompCauseGameCondition_ForceWeather.<>c.<RandomizeSettings>b__6_0: post: VFECore.Patch_RandomizeSettings.Postfix
+CompDrug.PostIngested: post: AlienRace.HarmonyPatches.PostIngestedPostfix
+CompEquippable.GetVerbsCommands: PRE: MVCF.PatchSets.PatchSet_ExtraEquipment.GetVerbsCommands_Prefix post: VFECore.Patch_CompEquippable+GetVerbsCommands.Postfix
+CompGlower.ReceiveCompSignal: post: PipeSystem.ReceiveCompSignal_Postfix.Postfix
+CompGlower.SetGlowColorInternal: post: VanillaFurnitureExpanded.CompGlowerExtended+CompGlower_SetGlowColorInternal_Patch.Postfix
+CompGlower.get_ShouldBeLitNow: post: PipeSystem.ShouldBeLitNow_Postfix.Postfix
+CompMechPowerCell.KillPowerProcessor: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+CompRottable.StageChanged: PRE: AlienRace.HarmonyPatches.RottableCompStageChangedPostfix
+CompTargetEffect_PsychicShock.DoEffectOn: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+CompUseEffect_FinishRandomResearchProject.CanBeUsedBy: post: VanillaStorytellersExpanded.Patch_CompUseEffect_FinishRandomResearchProject+CanBeUsedBy.Postfix
+CompUseEffect_FinishRandomResearchProject.DoEffect: post: VanillaStorytellersExpanded.Patch_CompUseEffect_FinishRandomResearchProject+DoEffect.Postfix
+CompUseEffect_InstallImplant.CanBeUsedBy: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+CompUseEffect_InstallImplant.DoEffect: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+CompUseEffect_InstallImplant.GetExistingImplant: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Corpse.GetInspectString: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Corpse.IngestedCalculateAmounts: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_AddInjury.ApplyDamageToPart: PRE: VanillaStorytellersExpanded.Patch_ApplyDamageToPart.Prefix
+DamageWorker_AddInjury.ApplySmallPawnDamagePropagation: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_AddInjury.ApplyToPawn: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_DamageWorker_AddInjury_ApplyToPawn_Patch.Transpiler
+DamageWorker_Blunt.<>c.<StunChances>b__2_0: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_Blunt.<>c.<StunChances>b__2_5: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DamageWorker_Blunt.ApplySpecialEffectsToPart: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugOutputsHealth.<>c__DisplayClass5_0.<Prosthetics>b__13: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugOutputsHealth.<>c__DisplayClass5_0.<Prosthetics>b__14: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugOutputsTextGen.<>c__DisplayClass0_5.<FlavorfulCombatTest>b__22: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugToolsPawns.Do10DamageUntilDead: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugTools_Health.Options_Damage_BodyParts: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugTools_Health.Options_Hediff_BodyParts: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+DebugWindowsOpener.DevToolStarterOnGUI: PRE: VFECore.DebugWindowsOpener_DevToolStarterOnGUI_Patch.Prefix TRANS: HugsLib.Patches.DevToolStarterOnGUI_Patch.ExtendButtonsWindow
+DebugWindowsOpener.DrawButtons: TRANS: HugsLib.Patches.DebugWindowsOpener_Patch.DrawAdditionalButtons, VFECore.DebugWindowsOpener_DrawButtons_Patch.Transpiler
+DeepResourceGrid.DeepResourcesOnGUI: post: VFECore.Patch_DeepResourceGrid_DeepResourcesOnGUI.Postfix
+DeepResourceGrid.GetCellExtraColor: post: VFECore.Patch_DeepResourceGrid_GetCellExtraColor.PostFix
+Def.SpecialDisplayStats: post: VFECore.Def_SpecialDisplayStats_Patch.Postfix
+DesignationCategoryDef.get_ResolvedAllowedDesignators: post: PipeSystem.ResolvedAllowedDesignators_Patch.Postfix
+Designator.CanDesignateThing: post: AlienRace.HarmonyPatches.CanDesignateThingTamePostfix
+Designator_Build.DrawPanelReadout: TRANS: VFECore.Designator_Build_DrawPanelReadout_Patch.Transpiler
+Designator_Build.SelectedUpdate: post: PipeSystem.Designator_Build_Patch.Postfix
+Designator_Install.SelectedUpdate: post: PipeSystem.Designator_Install_Patch.Postfix
+Dialog_ChooseMemes.GetFirstIncompatibleMemePair: post: VanillaMemesExpanded.VanillaMemesExpanded_Dialog_ChooseMemes_GetFirstIncompatibleMemePair_Patch.DetectIfRequiredMeme
+Dialog_ChooseMemes.TryAccept: PRE: VanillaMemesExpanded.VanillaMemesExpanded_Dialog_ChooseMemes_TryAccept_Patch.DetectIfPairedMeme
+Dialog_CreateXenotype.DrawGene: PRE: VanillaGenesExpanded.VanillaGenesExpanded_Dialog_CreateXenotype_DrawGene_Patch.Prefix
+Dialog_InfoCard.FillCard: PRE: AnimalBehaviours.VanillaExpandedFramework_Dialog_InfoCard_FillCard_Patch.Prefix
+Dialog_ModSettings.DoWindowContents: post: ModSettingsFramework.Dialog_ModSettings_Patch.Postfix
+Dialog_Options.DoModOptions: TRANS: HugsLib.Patches.DialogOptions_DoModOptions_Patch.InterceptWindowOpening
+Dialog_Options.PostOpen: post: HugsLib.Patches.DialogOptions_PostOpen_Patch.InjectHugsLibEntries
+Dialog_StylingStation..ctor: post: AlienRace.StylingStation.ConstructorPostfix
+Dialog_StylingStation.DoWindowContents: TRANS: AlienRace.StylingStation.DoWindowContentsTranspiler
+Dialog_StylingStation.Reset: post: AlienRace.StylingStation.ResetPostfix
+DrugPolicy.ExposeData: PRE: VFECore.Patch_DrugPolicy+ExposeData.Prefix
+EditWindow_Log.DoMessagesListing: PRE: HugsLib.Patches.EditWindow_Log_Patch.ExtraLogWindowButtons
+EditWindow_TweakValues.DoWindowContents: TRANS: AlienRace.TweakValues.TweakValuesTranspiler
+EquipmentUtility.CanEquip: post: AlienRace.HarmonyPatches.CanEquipPostfix, MIM40kFactions.EMWH_ApparelRestrictionPatch.PawnCanWearbyTraitPostfix, MIM40kFactions.EMWH_ApparelRestrictionPatch.PawnCanWearbyArmorPostfix, MIM40kFactions.EMWH_ApparelRestrictionPatch.PawnCanWearbyapparelTagsPostfix
+Faction.FactionTick: TRANS: AlienRace.HarmonyPatches.FactionTickTranspiler
+Faction.TryMakeInitialRelationsWith: post: VFECore.Faction_TryMakeInitialRelationsWith_Patch.Postfix, AlienRace.HarmonyPatches.TryMakeInitialRelationsWithPostfix
+Faction.get_NaturalGoodwill: post: VanillaStorytellersExpanded.Patch_NaturalGoodwill.Postfix
+FactionGenerator.GenerateFactionsIntoWorld: TRANS: VanillaStorytellersExpanded.Patch_FactionGenerator+GenerateFactionsIntoWorld.Transpiler
+FallingStructureArrival.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+FleshTypeDef.ChooseWoundOverlay: post: VanillaGenesExpanded.VanillaGenesExpanded_FleshTypeDef_ChooseWoundOverlay_Patch.Postfix
+FloatMenuMakerMap.AddDraftedOrders: PRE: VFE.Mechanoids.HarmonyPatches.AddDraftedOrders_Patch.Prefix TRANS: AnimalBehaviours.FloatMenuMakerMap_Patch.Transpiler, MVCF.PatchSets.PatchSet_PreferMelee.CheckForMelee
+FloatMenuMakerMap.AddHumanlikeOrders: PRE: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.Prefix post: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.Postfix, VFECore.Patch_FloatMenuMakerMap+AddHumanlikeOrders_Fix.Postfix, HeavyWeapons.Patch_FloatMenuMakerMap+AddHumanlikeOrders_Fix.Postfix, MVCF.PatchSets.PatchSet_Brawlers.AddHumanlikeOrders_Postfix
+FloatMenuMakerMap.CanTakeOrder: post: VFE.Mechanoids.HarmonyPatches.MechanoidsObeyOrders.Postfix, AnimalBehaviours.VanillaExpandedFramework_FloatMenuMakerMap_CanTakeOrder_Patch.MakePawnControllable
+FloatMenuMakerMap.ChoicesAtFor: post: VFE.Mechanoids.HarmonyPatches.FloatMenuMakerMap_ChoicesAtFor_Patch.Postfix
+FoodUtility.AddThoughtsFromIdeo: PRE: AlienRace.HarmonyPatches.FoodUtilityAddThoughtsFromIdeoPrefix
+FoodUtility.GetBodyPartNutrition: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+FoodUtility.GetMeatSourceCategory: PRE: VanillaCookingExpanded.VanillaExpandedFramework_FoodUtility_GetMeatSourceCategory_Patch.DontCrapTheBedWithIngredientsWithoutNutrition
+FoodUtility.ThoughtsFromIngesting: post: AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix
+Frame.CompleteConstruction: TRANS: VFECore.Frame_CompleteConstruction_Patch.Transpiler
+Game.ClearCaches: post: PipeSystem.Game_ClearCaches.Postfix
+Game.DeinitAndRemoveMap: post: HugsLib.Patches.Game_DeinitAndRemoveMap_Patch.MapRemovalHook
+Game.FillComponents: PRE: HugsLib.Patches.Game_FillComponents_Patch.GameInitializationHook
+Game.FinalizeInit: post: HugsLib.Patches.Game_FinalizeInit_Patch.WorldLoadedHook
+Game.InitNewGame: TRANS: VFECore.Patch_Game+InitNewGame.Transpiler
+GameComponentUtility.LoadedGame: post: VFECore.Patch_GameComponentUtility+LoadedGame.Postfix
+GameComponentUtility.StartedNewGame: post: VFECore.Patch_GameComponentUtility+StartedNewGame.Postfix
+GameCondition_ForceWeather.<>c.<RandomizeSettings>b__4_0: post: VFECore.Patch_RandomizeSettings.Postfix
+GameInitData.PrepForMapGen: PRE: AlienRace.HarmonyPatches.PrepForMapGenPrefix
+GameRules.DesignatorAllowed: TRANS: AlienRace.HarmonyPatches.DesignatorAllowedTranspiler
+GenConstruct.BlocksConstruction: post: VanillaFurnitureExpanded.Patch_BlocksConstruction.Postfix
+GenConstruct.CanConstruct: PRE: VFECore.GenConstruct_CanConstruct_Patch.Prefix
+GenConstruct.CanConstruct: PRE: VFECore.GenConstruct_CanConstruct_Patch2.Prefix post: AlienRace.HarmonyPatches.CanConstructPostfix
+GenGrid.WalkableBy: PRE: VFECore.PhasingPatches.WalkableBy_Prefix
+GenStep_Power.Generate: PRE: KCSG.Prefix_GenStep_Power.Prefix
+GenStep_Settlement.ScatterAt: TRANS: VFECore.GenStep_Settlement_ScatterAt_Patch.Transpiler
+GenStep_Terrain.TerrainFrom: post: VFECore.GenStep_Terrain_TerrainFrom_Patch.Postfix
+GenStuff.RandomStuffInexpensiveFor: TRANS: [0]VFECore.RandomStuffInexpensiveFor_Patch.Transpiler
+GenStuff.TryRandomStuffByCommonalityFor: PRE: [800]VFECore.TryRandomStuffByCommonalityFor_Patch.Prefix
+Gene.ExposeData: post: VanillaGenesExpanded.VanillaGenesExpanded_Gene_ExposeData_Patch.Postfix
+Gene.OverrideBy: post: VanillaGenesExpanded.VanillaGenesExpanded_Gene_OverrideBy_Patch.Postfix
+Gene.PostAdd: post: VanillaGenesExpanded.VanillaGenesExpanded_Gene_PostAdd_Patch.Postfix
+Gene.PostRemove: post: VanillaGenesExpanded.VanillaGenesExpanded_Gene_PostRemove_Patch.Postfix
+GeneGraphicData.GetColorFor: PRE: VanillaGenesExpanded.VanillaGenesExpanded_GeneGraphicData_GetColorFor_Patch.Prefix
+GeneGraphicData.GetGraphics: post: VanillaGenesExpanded.GeneGraphicData_GetGraphics_Patch.Postfix
+GeneUIUtility.DrawGene: TRANS: VanillaGenesExpanded.GeneUIUtility_DrawGene_Patch.Transpiler
+GeneUIUtility.DrawGeneBasics: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_GeneUIUtility_DrawGeneBasics_Patch.Transpiler
+GhostUtility.GhostGraphicFor: post: VanillaFurnitureExpanded.VanillaExpandedFramework_GhostUtility_GhostGraphicFor_Patch.DisplayBlueprintGraphic
+Gizmo_GrowthTier.GrowthTierTooltip: PRE: AlienRace.HarmonyPatches.GrowthTierTooltipPrefix
+GlobalTextureAtlasManager.TryGetPawnFrameSet: PRE: AlienRace.HarmonyPatches.GlobalTextureAtlasGetFrameSetPrefix
+GlobalTextureAtlasManager.TryMarkPawnFrameSetDirty: PRE: VFECore.Patch_DisableAtlasCaching.Prefix
+GrammarUtility.RulesForPawn: post: AlienRace.HarmonyPatches.RulesForPawnPostfix
+GrowthUtility.IsGrowthBirthday: TRANS: AlienRace.HarmonyPatches.IsGrowthBirthdayTranspiler
+HealthCardUtility.<>c__DisplayClass43_0.<DoDebugOptions>b__17: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HealthCardUtility.<>c__DisplayClass43_0.<DoDebugOptions>b__3: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HealthCardUtility.DrawHediffRow: PRE: VanillaGenesExpanded.VanillaGenesExpanded_HealthCardUtility_DrawHediffRow_Patch.Prefix post: VanillaGenesExpanded.VanillaGenesExpanded_HealthCardUtility_DrawHediffRow_Patch.Postfix TRANS: VanillaGenesExpanded.VanillaGenesExpanded_HealthCardUtility_DrawHediffRow_Patch.Transpiler
+HealthCardUtility.DrawOverviewTab: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HealthCardUtility.GenerateSurgeryOption: post: MVCF.PatchSets.PatchSet_Brawlers.GenerateSurgeryOption_Postfix
+HealthUtility.FixWorstHealthCondition: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HealthUtility.ShouldRandomSurgeryInjuriesAvoidDestroying: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Hediff.Tick: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffComp_DissolveGearOnDeath.Notify_PawnDied: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffComp_Immunizable.get_SeverityFactorFromHediffs: post: VanillaGenesExpanded.VanillaExpandedFramework_HediffComp_Immunizable_SeverityFactorFromHediffs_Patch.AddDiseaseFactor
+HediffComp_PregnantHuman.get_CompTipStringExtra: post: VanillaGenesExpanded.VanillaGenesExpanded_HediffComp_PregnantHuman_CompTipStringExtra_Patch.AddGeneMultiplierExplanation
+HediffComp_ReactOnDamage.React: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffGiver_Hypothermia.OnIntervalPassed: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffSet.<>c.<get_HasHead>b__11_0: post: AlienRace.HarmonyPatches.HasHeadPostfix
+HediffSet.<GetNotMissingParts>d__51.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffSet.AddDirect: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffSet.CacheMissingPartsCommonAncestors: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+HediffSet.CalculatePain: post: VFECore.CalculatePain_Patch.Postfix
+HediffSet.DirtyCache: post: VFECore.DirtyCache_Patch.Postfix
+HediffSet.get_BleedRateTotal: post: VFECore.Patch_BleedRateTotal.Postfix
+HediffSet.get_HasHead: PRE: AlienRace.HarmonyPatches.HasHeadPrefix
+Hediff_Pregnant.PostAdd: post: VanillaGenesExpanded.VanillaGenesExpanded_Hediff_Pregnant_PostAdd_Patch.CauseEggFertilization
+HumanEmbryo.CanImplantReport: post: AlienRace.HarmonyPatches.EmbryoImplantReportPostfix
+HumanEmbryo.ImplantPawnValid: PRE: AlienRace.HarmonyPatches.EmbryoImplantPawnPrefix
+HumanOvum.CanFertilizeReport: post: AlienRace.HarmonyPatches.HumanOvumCanFertilizeReportPostfix
+HumanlikeMeshPoolUtility.GetHumanlikeBeardSetForPawn: TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeBeardSetForPawn_Patch.Transpiler, AlienRace.HarmonyPatches.GetHumanlikeHairSetForPawnTranspiler
+HumanlikeMeshPoolUtility.GetHumanlikeBodySetForPawn: TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeBodySetForPawn_Patch.Transpiler, AlienRace.HarmonyPatches.GetHumanlikeBodySetForPawnTranspiler
+HumanlikeMeshPoolUtility.GetHumanlikeHairSetForPawn: TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeHairSetForPawn_Patch.Transpiler, AlienRace.HarmonyPatches.GetHumanlikeHairSetForPawnTranspiler
+HumanlikeMeshPoolUtility.GetHumanlikeHeadSetForPawn: TRANS: VanillaGenesExpanded.HumanlikeMeshPoolUtility_Patches+GetHumanlikeHeadSetForPawn_Patch.Transpiler, AlienRace.HarmonyPatches.GetHumanlikeHeadSetForPawnTranspiler
+ITab_Pawn_Character.get_IsVisible: post: VFE.Mechanoids.HarmonyPatches.NoBioForMachines.Postfix
+ITab_Pawn_Gear.DrawThingRow: PRE: VFE.Mechanoids.HarmonyPatches.ITab_Pawn_Gear_Patch.Prefix post: VFE.Mechanoids.HarmonyPatches.ITab_Pawn_Gear_Patch.Postfix
+ITab_Pawn_Gear.ShouldShowEquipment: post: AnimalBehaviours.VanillaExpandedFramework_ITab_Pawn_Gear_IsVisible_Patch.RemoveTab
+ITab_Pawn_Gear.TryDrawOverallArmor: TRANS: VFECore.Patch_ITab_Pawn_Gear+TryDrawOverallArmor.Transpiler, AlienRace.HarmonyPatches.BodyReferenceTranspiler
+ITab_Pawn_Gear.get_CanControl: post: VFE.Mechanoids.HarmonyPatches.ITab_Pawn_Gear_CanControl.Postfix
+Ideo.ExposeData: TRANS: VanillaMemesExpanded.VanillaMemesExpanded_Ideo_ExposeData_Patch.Transpiler
+IncidentWorker.TryExecute: PRE: VanillaStorytellersExpanded.Patch_TryExecute.Prefix
+IncidentWorker_Disease.PotentialVictims: post: AnimalBehaviours.VanillaExpandedFramework_IncidentWorker_Disease_PotentialVictims_Patch.Postfix
+IncidentWorker_Raid.TryExecuteWorker: PRE: VanillaStorytellersExpanded.Patch_TryExecuteWorker.Prefix
+IncidentWorker_RaidEnemy.ResolveRaidStrategy: post: VFECore.IncidentWorker_RaidEnemy_ResolveRaidStrategy_Patch.Postfix
+IncidentWorker_SelfTame.Candidates: post: AnimalBehaviours.VanillaExpandedFramework_IncidentWorker_SelfTame_Candidates_Patch.Postfix
+IncidentWorker_WandererJoin.GeneratePawn: TRANS: VFECore.Patch_IncidentWorker_WandererJoin+TryExecuteWorker.Transpiler
+InteractionWorker_RomanceAttempt.Interacted: TRANS: AlienRace.HarmonyPatches.RomanceAttemptInteractTranspiler
+InteractionWorker_RomanceAttempt.SuccessChance: post: AlienRace.HarmonyPatches.RomanceAttemptSuccessChancePostfix
+JobDriver_ConstructFinishFrame.<>c__DisplayClass4_0.<MakeNewToils>b__1: TRANS: VFECore.JobDriver_ConstructFinishFrame_MakeNewToils_TickAction_Patch.Transpiler
+JobDriver_ConstructFinishFrame.MakeNewToils: post: VFECore.JobDriver_ConstructFinishFrame_MakeNewToils_Patch.Postfix
+JobDriver_Flee.<MakeNewToils>b__3_0: TRANS: VFE.Mechanoids.HarmonyPatches.JobDriver_Flee_MakeNewToils_Patch.Transpiler
+JobDriver_Hunt.MakeNewToils: post: MVCF.PatchSets.PatchSet_Hunting.MakeNewToils
+JobDriver_Lovin.<MakeNewToils>b__12_1: TRANS: VFECore.JobDriver_Lovin_Patch.Transpiler
+JobDriver_Lovin.<MakeNewToils>b__12_4: TRANS: VFECore.JobDriver_Lovin_FinishAction_Vanilla.Transpiler
+JobDriver_Lovin.GenerateRandomMinTicksToNextLovin: TRANS: AlienRace.HarmonyPatches.GenerateRandomMinTicksToNextLovinTranspiler
+JobDriver_Vomit.<MakeNewToils>b__4_1: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_JobDriver_Vomit_MakeNewToils_Transpiler_Patch.Transpiler
+JobDriver_Vomit.<MakeNewToils>d__4.MoveNext: TRANS: VanillaGenesExpanded.VanillaGenesExpanded_JobDriver_Vomit_MoveNext_Patch.Transpiler
+JobDriver_Vomit.MakeNewToils: PRE: VanillaGenesExpanded.VanillaGenesExpanded_JobDriver_Vomit_MakeNewToils_Patch.StorePawn
+JobDriver_Wait.CheckForAutoAttack: TRANS: MVCF.PatchSets.PatchSet_TargetFinder.BestTargetTranspiler
+JobDriver_Wear.Notify_Starting: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+JobDriver_Wear.TryUnequipSomething: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+JobGiver_AIFightEnemy.FindAttackTarget: TRANS: MVCF.PatchSets.PatchSet_TargetFinder.AttackTargetTranspiler
+JobGiver_AIFollowPawn.TryGiveJob: post: VFECore.DoorTeleporter+JobGiver_AIFollowPawn_TryGiveJob_Patch.Postfix
+JobGiver_ConfigurableHostilityResponse.TryGetAttackNearbyEnemyJob: TRANS: MVCF.PatchSets.PatchSet_TargetFinder.AttackTargetTranspiler
+JobGiver_GetFood.TryGiveJob: PRE: AnimalBehaviours.VanillaExpandedFramework_JobGiver_GetFood_GetPriority_Patch.StopEatingThings
+JobGiver_GetRest.GetPriority: TRANS: NocturnalAnimals.JobGiver_GetRest_Patch+VanillaExpandedFramework_JobGiver_GetRest_GetPriority_Patch.Transpiler
+JobGiver_OptimizeApparel.ApparelScoreGain: post: AlienRace.HarmonyPatches.ApparelScoreGainPostFix TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+JobGiver_SatisfyChemicalNeed.DrugValidator: post: AlienRace.HarmonyPatches.DrugValidatorPostfix
+JobGiver_Work.PawnCanUseWorkGiver: post: VFE.Mechanoids.HarmonyPatches.MechanoidsAreCapable.Postfix
+LanguageDatabase.SelectLanguage: PRE: HugsLib.Patches.LanguageDatabase_Patch.ForceRestartAfterLangChange
+LifeStageWorker.Notify_LifeStageStarted: post: VanillaGenesExpanded.LifeStageWorker_Notify_LifeStageStarted_Patch.Postfix
+LifeStageWorker_HumanlikeAdult.Notify_LifeStageStarted: post: AlienRace.HarmonyPatches.AdultLifeStageStartedPostfix TRANS: AlienRace.HarmonyPatches.AdultLifeStageStartedTranspiler
+LifeStageWorker_HumanlikeChild.Notify_LifeStageStarted: post: AlienRace.HarmonyPatches.ChildLifeStageStartedPostfix TRANS: AlienRace.HarmonyPatches.ChildLifeStageStartedTranspiler
+LoadedModManager.ApplyPatches: PRE: ModSettingsFramework.LoadedModManager_ApplyPatches_Patch.Prefix
+LoadedModManager.get_ModHandles: post: ModSettingsFramework.LoadedModManager_ModHandles_Patch.Postfix
+Log.Error: PRE: ModSettingsFramework.Log_Error_Patch.Prefix
+Lord.AddPawn: post: VanillaStorytellersExpanded.Patch_AddPawn.Postfix
+Lord.Cleanup: PRE: VanillaStorytellersExpanded.Patch_Cleanup.Prefix
+MainMenuDrawer.DoMainMenuControls: TRANS: HugsLib.Patches.MainMenuDrawer_Quickstart_Patch.QuicktestButtonUsesQuickstarter
+MainTabWindow_Inspect.DoInspectPaneButtons: post: VFE.Mechanoids.HarmonyPatches.MainTabWindow_Inspect_Renaming.Postfix
+MainTabWindow_Research.DrawContentSource: PRE: VFECore.MainTabWindow_Research_DrawContentSource_Patch.Prefix
+MainTabWindow_Research.DrawRightRect: TRANS: VanillaStorytellersExpanded.Patch_MainTabWindow_Research+DrawRightRect.Transpiler, AlienRace.HarmonyPatches.ResearchScreenTranspiler
+MainTabWindow_Research.ViewSize: TRANS: AlienRace.HarmonyPatches.ResearchScreenTranspiler
+Map.ConstructComponents: post: HugsLib.Patches.Map_ConstructComponents_Patch.MapComponentsInitHook
+Map.ExposeData: PRE: KCSG.Prefix_Map_ExposeData.Prefix
+Map.FinalizeInit: post: HugsLib.Patches.Map_FinalizeInit_Patch.MapLoadedHook
+MapComponentUtility.MapGenerated: post: HugsLib.Patches.MapComponentUtility_MapGenerated_Patch.MapGeneratedHook
+MapDeiniter.Deinit: PRE: VFECore.DoorTeleporterPatches.Deinit_Prefix
+MapDeiniter.Deinit_NewTemp: PRE: VFECore.SectionLayer_FogOfWar_Regenerate_Patch.ClearCache
+MapGenerator.GenerateContentsIntoMap: PRE: VFECore.MapGenerator_GenerateContentsIntoMap_Patch.Prefix
+MapGenerator.GenerateMap: post: VFECore.MapGenerator_GenerateMap_Patch.Postfix
+MapParent.get_MapGeneratorDef: post: KCSG.Postfix_MapParent_MapGeneratorDef+MapParent_MapGeneratorDef_Patch.Postfix
+MapTemperature.SeasonAcceptableFor: post: AnimalBehaviours.VanillaExpandedFramework_MapTemperature_SeasonAcceptableFor_Patch.AllowAnimalSpawns
+MassUtility.Capacity: post: VanillaGenesExpanded.VanillaGenesExpanded_MassUtility_Capacity_Patch.GenesAffectCarryCapacity, AnimalBehaviours.VanillaExpandedFramework_MassUtility_Capacity_Patch.MakeGigantelopesCarryMore, VFECore.MassUtility_Capacity_Patch.Postfix
+MechClusterGenerator.MechKindSuitableForCluster: post: VFE.Mechanoids.MechClusterGenerator_MechKindSuitableForCluster_Patch.Postfix
+MechanitorUtility.InMechanitorCommandRange: post: VFE.Mechanoids.HarmonyPatches.MechanitorUtility_InMechanitorCommandRange_Patch.Postfix
+MedicalRecipesUtility.<GetFixedPartsToApplyOn>d__5.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+MemoryThoughtHandler.GetFirstMemoryOfDef: PRE: AlienRace.HarmonyPatches.ThoughtReplacementPrefix
+MemoryThoughtHandler.NumMemoriesOfDef: PRE: AlienRace.HarmonyPatches.ThoughtReplacementPrefix
+MemoryThoughtHandler.OldestMemoryOfDef: PRE: AlienRace.HarmonyPatches.ThoughtReplacementPrefix
+MemoryThoughtHandler.RemoveMemoriesOfDef: PRE: AlienRace.HarmonyPatches.ThoughtReplacementPrefix
+MemoryThoughtHandler.RemoveMemoriesOfDefIf: PRE: AlienRace.HarmonyPatches.ThoughtReplacementPrefix
+MemoryThoughtHandler.RemoveMemoriesOfDefWhereOtherPawnIs: PRE: AlienRace.HarmonyPatches.ThoughtReplacementPrefix
+MemoryThoughtHandler.TryGainMemory: PRE: AlienRace.HarmonyPatches.TryGainMemoryPrefix post: VFECore.TryGainMemory_Patch.Postfix
+MeshPool.GetMeshSetForWidth: TRANS: AlienRace.HarmonyPatches.GetMeshSetForWidthTranspiler
+ModsConfig.RestartFromChangedMods: PRE: HugsLib.Patches.ModsConfig_RestartFromChangedMods_Patch.QuickRestartInDevMode
+Page_ConfigureStartingPawns.CanDoNext: post: AlienRace.HarmonyPatches.CanDoNextStartPawnPostfix
+Page_ConfigureStartingPawns.PreOpen: post: KCSG.Postfix_Page_ConfigureStartingPawns_PreOpen.Postfix
+Pawn.<GetDisabledWorkTypes>g__FillList|302_0: PRE: VanillaApparelExpanded.Pawn_GetDisabledWorkTypes_Patch.Prefix
+Pawn.ChangeKind: PRE: AlienRace.HarmonyPatches.ChangeKindPrefix
+Pawn.DeSpawn: PRE: MVCF.PatchSets.PatchSet_IndependentVerbs.Postfix_Pawn_DeSpawn post: VFECore.PhasingPatches.Despawn_Postfix
+Pawn.ExposeData: post: MVCF.PatchSets.PatchSet_Base.PostExposeDataPawn
+Pawn.GetGizmos: post: AnimalBehaviours.Pawn_GetGizmos_Patch.Postfix, VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Pawn_GetGizmos_WeaponGizmoGetter_Patch.GetGizmos_PostFix
+Pawn.Kill: PRE: VFECore.Patch_Kill.Prefix, VanillaStorytellersExpanded.Patch_Kill.Prefix post: VFE.Mechanoids.HarmonyPatches.MachinesDie.Postfix, VFECore.Patch_Kill.Postfix
+Pawn.MainDesc: post: VFE.Mechanoids.HarmonyPatches.Pawn_MainDesc_Patch.Postfix
+Pawn.SetFaction: post: VFECore.Patch_Pawn+SetFaction.Postfix, AlienRace.HarmonyPatches.SetFactionPostfix
+Pawn.SpawnSetup: post: VFECore.CompShieldField+SpawnSetup_Patch.Postfix, VFECore.PhasingPatches.CheckPhasing, MVCF.PatchSets.PatchSet_IndependentVerbs.Postfix_Pawn_SpawnSetup
+Pawn.TryGetAttackVerb: PRE: MVCF.PatchSets.PatchSet_MultiVerb.TryGetAttackVerb_Prefix post: VFECore.Abilities.TryGetAttackVerb_Patch.Postfix, MVCF.PatchSets.PatchSet_MultiVerb.TryGetAttackVerb_Postfix
+Pawn.WorkTypeIsDisabled: post: AnimalBehaviours.VanillaExpandedFramework_Pawn_WorkTypeIsDisabled_Patch.RemoveTendFromAnimals
+Pawn.get_CurrentEffectiveVerb: PRE: MVCF.PatchSets.PatchSet_TargetFinder.CurrentEffectiveVerb_Prefix
+Pawn.get_IsColonistPlayerControlled: post: AnimalBehaviours.VanillaExpandedFramework_Pawn_IsColonistPlayerControlled_Patch.AddAnimalAsColonist
+PawnApparelGenerator.GenerateStartingApparelFor: PRE: AlienRace.HarmonyPatches.GenerateStartingApparelForPrefix post: VFECore.Patch_PawnApparelGenerator.GenerateStartingApparelFor_Postfix, AlienRace.HarmonyPatches.GenerateStartingApparelForPostfix
+PawnApparelGenerator.PossibleApparelSet.CoatButNoShirt: TRANS: VFECore.Patch_PawnApparelGenerator+PossibleApparelSet+manual_CoatButNoShirt.Transpiler
+PawnApparelGenerator.PossibleApparelSet.GiveToPawn: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnApparelGenerator.PossibleApparelSet.Reset: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnAttackGizmoUtility.GetAttackGizmos: post: MVCF.PatchSets.PatchSet_HumanoidGizmos.GetAttackGizmos_Postfix
+PawnBioAndNameGenerator.FillBackstorySlotShuffled: PRE: VFECore.PawnBioAndNameGenerator_FillBackstorySlotShuffled.Prefix, AlienRace.HarmonyPatches.FillBackstoryInSlotShuffledPrefix TRANS: VFECore.PawnBioAndNameGenerator_FillBackstorySlotShuffled.Transpiler, AlienRace.HarmonyPatches.FillBackstorySlotShuffledTranspiler
+PawnBioAndNameGenerator.GeneratePawnName: PRE: AlienRace.HarmonyPatches.GeneratePawnNamePrefix
+PawnBioAndNameGenerator.GetBackstoryCategoryFiltersFor: post: AlienRace.HarmonyPatches.GetBackstoryCategoryFiltersForPostfix
+PawnBioAndNameGenerator.GiveShuffledBioTo: TRANS: AlienRace.HarmonyPatches.MinAgeForAdulthood
+PawnBioAndNameGenerator.TryGetRandomUnusedSolidBioFor: post: AlienRace.HarmonyPatches.TryGetRandomUnusedSolidBioForPostfix
+PawnBioAndNameGenerator.TryGiveSolidBioTo: TRANS: AlienRace.HarmonyPatches.MinAgeForAdulthood
+PawnCacheRenderer.RenderPawn: PRE: AlienRace.HarmonyPatches.CacheRenderPawnPrefix
+PawnCapacityUtility.CalculateCapacityLevel: post: VFECore.PawnCapacityUtility_CalculateCapacityLevel.Postfix
+PawnCapacityUtility.CalculateLimbEfficiency: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnCapacityUtility.CalculateTagEfficiency: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnCapacityWorker_BloodFiltration.CalculateCapacityLevel: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnComponentsUtility.AddAndRemoveDynamicComponents: post: AnimalBehaviours.VanillaExpandedFramework_PawnComponentsUtility_AddAndRemoveDynamicComponents_Patch.AddDraftability
+PawnComponentsUtility.CreateInitialComponents: post: VFECore.PawnComponentsUtility_CreateInitialComponents_Patch.Postfix
+PawnFlyer.MakeFlyer: TRANS: VFECore.Abilities.PawnFlyer_MakeFlyer_Patch.Transpiler
+PawnGenerator.AddBlindness: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnGenerator.AdjustXenotypeForFactionlessPawn: TRANS: AlienRace.HarmonyPatches.LifestageAndXenotypeOptionsTranspiler
+PawnGenerator.GenerateBodyType: post: AlienRace.HarmonyPatches.GenerateBodyTypePostfix
+PawnGenerator.GenerateGearFor: post: VFECore.Patch_PawnGenerator+GenerateGearFor.Postfix, AlienRace.HarmonyPatches.GenerateGearForPostfix
+PawnGenerator.GenerateGenes: PRE: AlienRace.HarmonyPatches.GenerateGenesPrefix post: VanillaGenesExpanded.PawnGenerator_GenerateGenes_Patch.Postfix, AlienRace.HarmonyPatches.GenerateGenesPostfix TRANS: AlienRace.HarmonyPatches.GenerateGenesTranspiler
+PawnGenerator.GenerateInitialHediffs: post: VFECore.Patch_PawnGenerator+GenerateInitialHediffs.Postfix, AlienRace.HarmonyPatches.GenerateInitialHediffsPostfix
+PawnGenerator.GenerateNewPawnInternal: post: VFECore.Abilities.PawnGen_Patch.Postfix
+PawnGenerator.GeneratePawn: PRE: AlienRace.HarmonyPatches.GeneratePawnPrefix post: AlienRace.HarmonyPatches.GeneratePawnPostfix
+PawnGenerator.GeneratePawnRelations: PRE: AlienRace.HarmonyPatches.GeneratePawnRelationsPrefix
+PawnGenerator.GenerateRandomAge: PRE: AlienRace.HarmonyPatches.GenerateRandomAgePrefix
+PawnGenerator.GenerateSkills: PRE: AlienRace.HarmonyPatches.GenerateSkillsPrefix post: VFECore.PawnGenerator_GenerateSkills.Postfix, AlienRace.HarmonyPatches.GenerateSkillsPostfix
+PawnGenerator.GenerateTraits: PRE: AlienRace.HarmonyPatches.GenerateTraitsPrefix post: AlienRace.HarmonyPatches.GenerateTraitsPostfix
+PawnGenerator.GenerateTraitsFor: TRANS: AlienRace.HarmonyPatches.GenerateTraitsForTranspiler
+PawnGenerator.GetBodyTypeFor: post: AlienRace.HarmonyPatches.GetBodyTypeForPostfix
+PawnGenerator.GetXenotypeForGeneratedPawn: TRANS: AlienRace.HarmonyPatches.GetXenotypeForGeneratedPawnTranspiler
+PawnGenerator.TryGenerateNewPawnInternal: TRANS: AlienRace.HarmonyPatches.TryGenerateNewPawnInternalTranspiler
+PawnGenerator.XenotypesAvailableFor: post: AlienRace.HarmonyPatches.XenotypesAvailableForPostfix
+PawnGraphicSet.BeardMatAt: PRE: VFECore.PawnGraphicSet_BeardMatAt_Patch.Prefix
+PawnGraphicSet.CalculateHairMats: post: VFECore.PawnGraphicSet_CalculateHairMats_Patch.Postfix
+PawnGraphicSet.HairMatAt: PRE: VFECore.PawnGraphicSet_HairMatAt_Patch.Prefix
+PawnGraphicSet.HeadMatAt: PRE: VFECore.PawnGraphicSet_HeadMatAt_Patch.Prefix
+PawnGraphicSet.MatsBodyBaseAt: TRANS: VFECore.Patch_PawnGraphicSet_MatsBodyBaseAt_Transpiler.Transpiler
+PawnGraphicSet.ResolveAllGraphics: PRE: AlienRace.HarmonyPatches.ResolveAllGraphicsPrefix post: VanillaGenesExpanded.VanillaGenesExpanded_PawnGraphicSet_ResolveAllGraphics_Patch.PostFix, VFECore.PawnGraphicSet_ResolveAllGraphics_Patch.Postfix
+PawnGraphicSet.ResolveApparelGraphics: post: VFECore.Patch_PawnGraphicSet_ResolveApparelGraphics_Patch.Postfix
+PawnHairColors.HasGreyHair: TRANS: AlienRace.HarmonyPatches.HasGreyHairTranspiler
+PawnHairColors.RandomHairColor: TRANS: AlienRace.HarmonyPatches.GenerateGenesTranspiler
+PawnKindDef.<ConfigErrors>d__113.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnRelationDef.GetGenderSpecificLabel: PRE: AlienRace.HarmonyPatches.GetGenderSpecificLabelPrefix
+PawnRelationWorker_Child.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceChildPostfix
+PawnRelationWorker_ExLover.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceExLoverPostfix
+PawnRelationWorker_ExSpouse.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceExSpousePostfix
+PawnRelationWorker_Fiance.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceFiancePostfix
+PawnRelationWorker_Lover.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceLoverPostfix
+PawnRelationWorker_Parent.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceParentPostfix
+PawnRelationWorker_Sibling.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceSiblingPostfix
+PawnRelationWorker_Spouse.GenerationChance: post: AlienRace.HarmonyPatches.GenerationChanceSpousePostfix
+PawnRenderer.<>c__DisplayClass54_0.<DrawHeadHair>g__DrawApparel|2: TRANS: VFECore.Patch_DrawHeadHair_DrawApparel_Transpiler.Transpiler
+PawnRenderer.<>c__DisplayClass54_0.<DrawHeadHair>g__DrawExtraEyeGraphic|6: TRANS: VanillaGenesExpanded.DrawGeneEyes_Patch.Transpiler, AlienRace.HarmonyPatches.DrawExtraEyeGraphicTranspiler
+PawnRenderer.BaseHeadOffsetAt: post: AlienRace.HarmonyPatches.BaseHeadOffsetAtPostfix TRANS: VanillaGenesExpanded.PawnRenderer_BaseHeadOffsetAt_Patch.Transpiler, AlienRace.HarmonyPatches.BaseHeadOffsetAtTranspiler
+PawnRenderer.BodyAngle: TRANS: AlienRace.HarmonyPatches.PostureTranspiler
+PawnRenderer.CarryWeaponOpenly: post: VFE.Mechanoids.HarmonyPatches.MobileTurretsShowTurrets.Postfix
+PawnRenderer.DrawBodyApparel: TRANS: VanillaGenesExpanded.DrawBodyApparel_BeltPatches.Transpiler, VFECore.Harmony_PawnRenderer_DrawBodyApparel.Transpiler
+PawnRenderer.DrawBodyGenes: TRANS: VanillaGenesExpanded.DrawBodyGenes_Patch.Transpiler
+PawnRenderer.DrawEquipmentAiming: PRE: [800]VFECore.PawnRenderer_DrawEquipmentAiming_Patch.Prefix, VFE.Mechanoids.HarmonyPatches.RenderTurretCentered.Prefix, VanillaWeaponsExpandedLaser.HarmonyPatches.CYA_PawnRenderer_Draw_EquipmentAiming_GunDrawing_Patch.Prefix post: VFE.Mechanoids.HarmonyPatches.RenderTurretCentered.Postfix
+PawnRenderer.DrawHeadHair: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler, [-2147483648]VFECore.PawnRenderer_DrawHeadHair_Patch.Transpiler
+PawnRenderer.DrawPawnBody: TRANS: VFECore.Patch_PawnRenderer_DrawPawnBody_Transpiler.Transpiler
+PawnRenderer.GetBodyOverlayMeshSet: post: VanillaGenesExpanded.PawnRenderer_GetBodyOverlayMeshSet.Postfix, AlienRace.HarmonyPatches.GetBodyOverlayMeshSetPostfix
+PawnRenderer.GetBodyPos: post: VFECore.PawnRenderer_GetBodyPos_Patch.Postfix
+PawnRenderer.LayingFacing: TRANS: AlienRace.HarmonyPatches.PostureTranspiler
+PawnRenderer.RenderPawnAt: TRANS: VFECore.Patch_RenderPawnAt.Transpiler, AlienRace.HarmonyPatches.PostureTranspiler
+PawnRenderer.RenderPawnInternal: PRE: AlienRace.HarmonyPatches.RenderPawnInternalPrefix TRANS: AlienRace.HarmonyPatches.RenderPawnInternalTranspiler
+PawnStyleItemChooser.TotalStyleItemLikelihood: post: AlienRace.HarmonyPatches.TotalStyleItemLikelihoodPostfix
+PawnStyleItemChooser.WantsToUseStyle: PRE: AlienRace.HarmonyPatches.WantsToUseStylePrefix post: AlienRace.HarmonyPatches.WantsToUseStylePostfix
+PawnTechHediffsGenerator.InstallPart: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnTextureAtlas..ctor: TRANS: AlienRace.HarmonyPatches.PawnTextureAtlasConstructorTranspiler
+PawnTextureAtlas.<>c.<.ctor>b__12_0: TRANS: AlienRace.HarmonyPatches.PawnTextureAtlasConstructorFuncTranspiler
+PawnTextureAtlas.TryGetFrameSet: TRANS: AlienRace.HarmonyPatches.PawnTextureAtlasGetFrameSetTranspiler
+PawnUIOverlay.DrawPawnGUIOverlay: PRE: VanillaApparelExpanded.VAE_PawnUIOverlay_Patch.GhillieException
+PawnUtility.BodyResourceGrowthSpeed: post: VanillaGenesExpanded.VanillaGenesExpanded_PawnUtility_BodyResourceGrowthSpeed_Patch.MultiplyPregnancy
+PawnUtility.IsFighting: post: AnimalBehaviours.VanillaExpandedFramework_PawnUtility_IsFighting_Patch.DontFlee
+PawnUtility.Mated: PRE: AnimalBehaviours.PawnUtility_Mated+VanillaExpandedFramework_PawnUtility_Mated_Patch.Prefix
+PawnWeaponGenerator.TryGenerateWeaponFor: PRE: AlienRace.HarmonyPatches.TryGenerateWeaponForPrefix post: AlienRace.HarmonyPatches.TryGenerateWeaponForPostfix
+PawnWoundDrawer.<WriteCache>g__CalcAnchorData|7_3: post: AlienRace.HarmonyPatches.CalcAnchorDataPostfix
+PawnWoundDrawer.<WriteCache>g__FindAnchors|7_1: post: AlienRace.HarmonyPatches.FindAnchorsPostfix
+PawnWoundDrawer.WoundDebug: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PawnWoundDrawer.WriteCache: TRANS: AlienRace.HarmonyPatches.WoundWriteCacheTranspiler
+Pawn_AgeTracker.BirthdayBiological: PRE: AlienRace.HarmonyPatches.BirthdayBiologicalPrefix
+Pawn_AgeTracker.PostResolveLifeStageChange: post: AlienRace.HarmonyPatches.PostResolveLifeStageChangePostfix
+Pawn_AgeTracker.TryChildGrowthMoment: PRE: AlienRace.HarmonyPatches.TryChildGrowthMomentPrefix
+Pawn_AgeTracker.TrySimulateGrowthPoints: TRANS: AlienRace.HarmonyPatches.TrySimulateGrowthPointsTranspiler
+Pawn_AgeTracker.get_GrowthPointsFactor: post: AlienRace.HarmonyPatches.GrowthPointsFactorPostfix
+Pawn_ApparelTracker.CanWearWithoutDroppingAnything: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_ApparelTracker.Notify_ApparelAdded: post: VFECore.Pawn_ApparelTracker_Notify_ApparelAdded_Patch.Postfix, MVCF.PatchSets.Trackers.PatchSet_Apparel.ApparelAdded_Postfix
+Pawn_ApparelTracker.Notify_ApparelRemoved: PRE: MVCF.PatchSets.Trackers.PatchSet_Apparel.ApparelRemoved_Prefix post: VFECore.Pawn_ApparelTracker_Notify_ApparelRemoved_Patch.Postfix
+Pawn_ApparelTracker.Remove: post: VFECore.Pawn_ApparelTracker_Remove_Patch.Postfix
+Pawn_ApparelTracker.TryDrop: post: VanillaApparelExpanded.Patch_TryDrop.Postfix, VFECore.Pawn_ApparelTracker_TryDrop_Patch.Postfix, VFECore.TryDrop_Patch.Postfix
+Pawn_ApparelTracker.Wear: post: VanillaApparelExpanded.ApparelTracker_Wear.Postfix, VFECore.Pawn_ApparelTracker_Wear_Patch.Postfix TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_ApparelTracker.WouldReplaceLockedApparel: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_DraftController.GetGizmos: post: MVCF.PatchSets.PatchSet_HumanoidGizmos.GetGizmos_Postfix
+Pawn_EquipmentTracker.AddEquipment: post: VFECore.AddEquipment_Patch.Postfix
+Pawn_EquipmentTracker.Notify_EquipmentAdded: post: MVCF.PatchSets.Trackers.PatchSet_Equipment.EquipmentAdded_Postfix
+Pawn_EquipmentTracker.Notify_EquipmentRemoved: PRE: MVCF.PatchSets.Trackers.PatchSet_Equipment.EquipmentRemoved_Prefix
+Pawn_EquipmentTracker.TryDropEquipment: post: VFECore.TryDropEquipment_Patch.Postfix
+Pawn_EquipmentTracker.TryTransferEquipmentToContainer: post: MVCF.PatchSets.Trackers.PatchSet_Equipment.TryTransferEquipmentToContainer_Postfix
+Pawn_FilthTracker.Notify_EnteredNewCell: PRE: AnimalBehaviours.VanillaExpandedFramework_Pawn_FilthTracker_Notify_EnteredNewCell_Patch.DontDealWithFilth
+Pawn_GeneTracker.AddGene: PRE: AlienRace.HarmonyPatches.AddGenePrefix
+Pawn_GeneTracker.Notify_GenesChanged: post: AlienRace.HarmonyPatches.NotifyGenesChangedPostfix TRANS: AlienRace.HarmonyPatches.NotifyGenesChangedTranspiler
+Pawn_GeneTracker.SetXenotype: PRE: AlienRace.HarmonyPatches.SetXenotypePrefix
+Pawn_HealthTracker.CalculateMissingPartHediffsFromInjury: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_HealthTracker.CheckForStateChange: post: VFECore.Patch_Pawn_HealthTracker+CheckForStateChange.Postfix, AlienRace.HarmonyPatches.CheckForStateChangePostfix
+Pawn_HealthTracker.DropBloodFilth: PRE: VanillaGenesExpanded.VanillaGenesExpanded_Pawn_HealthTracker_DropBloodFilth_Patch.Prefix
+Pawn_HealthTracker.ShouldBeDead: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+Pawn_HealthTracker.ShouldBeDowned: PRE: VFECore.Patch_ShouldBeDowned.Prefix
+Pawn_IdeoTracker.SetIdeo: post: VanillaMemesExpanded.VanillaMemesExpanded_Pawn_IdeoTracker_SetIdeo_Patch.ForceTrait
+Pawn_InteractionsTracker.TryInteractWith: post: VFECore.TryInteractWith_Patch.Postfix
+Pawn_MindState.SetupLastHumanMeatTick: PRE: AlienRace.HarmonyPatches.SetupLastHumanMeatTickPrefix
+Pawn_MindState.StartFleeingBecauseOfPawnAction: PRE: AnimalBehaviours.VanillaExpandedFramework_Pawn_MindState_StartFleeingBecauseOfPawnAction_Patch.DontFlee
+Pawn_NeedsTracker.ShouldHaveNeed: PRE: VFEMech.ShouldHaveNeed_Patch.Prefix
+Pawn_PathFollower.BuildingBlockingNextPathCell: PRE: VFECore.PhasingPatches.NoBuildingBlocking
+Pawn_PathFollower.CostToMoveIntoCell: post: AnimalBehaviours.VanillaExpandedFramework_Pawn_PathFollower_CostToMoveIntoCell_Patch.DisablePathCostForFloatingCreatures TRANS: VFECore.PhasingPatches.CostToMoveIntoCell_Transpile
+Pawn_PathFollower.GenerateNewPath: PRE: VFECore.PhasingPatches.GenerateNewPath_Prefix
+Pawn_PathFollower.StartPath: PRE: VFECore.PhasingPatches.StartPath_Prefix post: VFECore.PhasingPatches.StartPath_Postfix
+Pawn_PathFollower.TryEnterNextPathCell: post: VFECore.PhasingPatches.UnfogEnteredCells
+Pawn_RelationsTracker.CompatibilityWith: post: AlienRace.HarmonyPatches.CompatibilityWithPostfix
+Pawn_RelationsTracker.ExposeData: post: VFECore.Pawn_RelationsTracker_ExposeData_Patch.Postfix
+Pawn_RelationsTracker.SecondaryLovinChanceFactor: post: AlienRace.HarmonyPatches.SecondaryLovinChanceFactorPostfix TRANS: AlienRace.HarmonyPatches.SecondaryLovinChanceFactorTranspiler
+Pawn_RelationsTracker.SetPregnancyApproach: post: VFECore.Pawn_RelationsTracker_SetPregnancyApproach_Patch.Postfix
+Pawn_SkillTracker.Learn: post: VanillaGenesExpanded.VanillaGenesExpanded_Pawn_SkillTracker_Learn_Patch.GiveRecreation
+Pawn_StanceTracker.SetStance: PRE: MVCF.PatchSets.PatchSet_IndependentVerbs.Pawn_StanceTracker_SetStance
+Pawn_StoryTracker.get_SkinColor: post: AlienRace.HarmonyPatches.SkinColorPostfix
+Pawn_StyleTracker.FinalizeHairColor: post: AlienRace.HarmonyPatches.FinalizeHairColorPostfix
+PawnsArrivalModeWorker_CenterDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_ClusterDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeDropGroups.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeWalkIn.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_EdgeWalkInGroups.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+PawnsArrivalModeWorker_RandomDrop.Arrive: post: VanillaStorytellersExpanded.RaidPatches.RaidGroupChecker
+Plant.PlantCollected: post: VanillaPlantsExpanded.VanillaPlantsExpanded_Plant_PlantCollected_Patch.AddSecondaryOutput
+PlayDataLoader.DoPlayLoad: post: HugsLib.Patches.PlayDataLoader_Patch.InitModsHook
+PlayLogEntryUtility.RulesForOptionalWeapon: post: MVCF.PatchSets.PatchSet_BatteLog.PlayLogEntryUtility_RulesForOptionalWeapon_Postfix
+PlayerKnowledgeDatabase.ReloadAndRebind: PRE: VFECore.DefIndicesFixer.Prefix
+PreceptComp_Apparel_Desired.Notify_MemberGenerated: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+PreceptComp_KnowsMemoryThought.Notify_MemberWitnessedAction: TRANS: AlienRace.HarmonyPatches.KnowsMemoryThoughtTranspiler
+PreceptComp_SelfTookMemoryThought.Notify_MemberTookAction: TRANS: AlienRace.HarmonyPatches.SelfTookMemoryThoughtTranspiler
+PreceptComp_UnwillingToDo_Gendered.MemberWillingToDo: TRANS: AlienRace.HarmonyPatches.UnwillingWillingToDoGenderedTranspiler
+PregnancyUtility.ApplyBirthOutcome: TRANS: AlienRace.HarmonyPatches.ApplyBirthOutcomeTranspiler
+PregnancyUtility.CanEverProduceChild: post: AlienRace.HarmonyPatches.CanEverProduceChildPostfix TRANS: AlienRace.HarmonyPatches.CanEverProduceChildTranspiler
+PregnancyUtility.PregnancyChanceForPartners: PRE: AlienRace.HarmonyPatches.PregnancyChanceForPartnersPrefix post: VFECore.PregnancyUtility_PregnancyChanceForPartners_Patch.Postfix
+Projectile.CheckForFreeIntercept: post: VFEMech.TeslaProjectile+ProjectilePatches.Postfix TRANS: VFECore.Projectile_SetTrueOrigin.Transpiler
+Projectile.CheckForFreeInterceptBetween: TRANS: VFECore.Projectile_SetTrueOrigin.Transpiler
+Projectile.Impact: PRE: VFECore.Projectile_Impact_Patch.Prefix
+Projectile.ImpactSomething: post: VFEMech.TeslaProjectile+ProjectilePatches.Postfix TRANS: VFECore.Projectile_SetTrueOrigin.Transpiler
+Projectile.Launch: post: VFECore.Projectile_Launch_Patch.Postfix
+Projectile.Tick: post: VFECore.Projectile_Tick_Patch.Postfix
+Projectile.get_DamageAmount: post: VFECore.Projectile_DamageAmount_Patch.Postfix
+Quest.End: PRE: VanillaStorytellersExpanded.Patch_End.Prefix
+QuestGen.AddSlateQuestTags: post: VanillaStorytellersExpanded.Patch_AddSlateQuestTags.Postfix
+QuestGen.Generate: post: VFECore.Patch_QuestGen_Generate.Postfix
+QuestNode_GetFaction.IsGoodFaction: post: VFECore.QuestNode_GetFaction_IsGoodFaction_Patch.Postfix
+QuestNode_GetPawn.IsGoodPawn: post: VFECore.QuestNode_GetPawn_IsGoodPawn_Patch.Postfix
+QuestNode_GetPawnKind.<>c__DisplayClass5_1.<SetVars>g__CanHandle|1: post: AnimalBehaviours.VanillaExpandedFramework_QuestNode_GetPawnKind_SetVars_CanHandle_Patch.Postfix
+QuestNode_Root_WandererJoin_WalkIn.GeneratePawn: TRANS: AlienRace.HarmonyPatches.WandererJoinTranspiler
+RaceProperties.CanEverEat: post: AlienRace.HarmonyPatches.CanEverEatPostfix
+RaidStrategyWorker_Siege.MakeLordJob: PRE: VFECore.Patch_RaidStrategyWorker_Siege+MakeLordJob.Prefix
+Reachability.CanReach: PRE: VFECore.PhasingPatches.AllReachable
+Recipe_ExtractOvum.AvailableReport: post: AlienRace.HarmonyPatches.ExtractOvumAvailableReportPostfix
+Recipe_RemoveBodyPart.<GetPartsToApplyOn>d__2.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+ResearchProjectDef.GetTip: TRANS: VFECore.ResearchProjectDef_GetTip_Patch.Transpiler
+ResearchProjectDef.HasTag: post: VFECore.Patch_ResearchProjectDef+HasTag.Postfix
+ResearchProjectDef.get_CanStartNow: post: VanillaStorytellersExpanded.Patch_ResearchProjectDef+get_CanStartNow.Postfix
+ResearchProjectDef.get_UnlockedDefs: post: PipeSystem.ResearchProjectDef_UnlockedDefs_Patch.Postfix
+RestUtility.CanUseBedEver: post: AlienRace.HarmonyPatches.CanUseBedEverPostfix
+Root.OnGUI: post: HugsLib.Patches.Root_OnGUI_Patch.OnGUIHookUnfiltered
+Root.Update: post: HugsLib.Patches.Root_Patch.UpdateHook
+Scenario.PostIdeoChosen: PRE: AlienRace.HarmonyPatches.ScenarioPostIdeoChosenPrefix
+SchoolUtility.CanTeachNow: PRE: AnimalBehaviours.VanillaExpandedFramework_SchoolUtility_CanTeachNow_Patch.RemoveTeaching
+SectionLayer_FogOfWar.Regenerate: TRANS: VFECore.SectionLayer_FogOfWar_Regenerate_Patch.Transpiler
+Selector.SelectAllMatchingObjectUnderMouseOnScreen: TRANS: VFE.Mechanoids.HarmonyPatches.Selector_SelectAllMatchingObjectUnderMouseOnScreen_Patch.Transpiler
+Selector.SelectInsideDragBox: TRANS: VFE.Mechanoids.HarmonyPatches.Selector_SelectInsideDragBox_Patch.Transpiler
+Settlement.GetFloatMenuOptions: post: VFECore.DoorTeleporterPatches.SettlementFloatOptions_Postfix
+Settlement.get_MapGeneratorDef: post: KCSG.Postfix_Settlement_MapGeneratorDef+Settlement_MapGeneratorDef_Patch.Postfix
+SettlementDefeatUtility.IsDefeated: post: VanillaStorytellersExpanded.Patch_IsDefeated.Postfix
+SettlementUtility.AttackNow: PRE: KCSG.Postfix_SettlementUtility_Attack.Prefix
+ShotReport.HitReportFor: PRE: VFECore.ShotReport_HitReportFor_Patch.Prefix
+ShotReport.get_AimOnTargetChance_StandardTarget: post: VFECore.ShotReport_AimOnTargetChance_StandardTarget.Postfix
+SiteMakerHelper.FactionCanOwn: post: VFECore.SiteMakerHelper_FactionCanOwn_Patch.Postfix
+SituationalThoughtHandler.TryCreateThought: PRE: AlienRace.HarmonyPatches.TryCreateThoughtPrefix
+SkillRecord.Interval: PRE: VanillaGenesExpanded.VanillaGenesExpanded_SkillRecord_Interval_Patch.Prefix post: VanillaGenesExpanded.VanillaGenesExpanded_SkillRecord_Interval_Patch.Postfix TRANS: VanillaGenesExpanded.VanillaGenesExpanded_SkillRecord_Interval_Transpiler_Patch.Transpiler
+SkillRecord.Learn: PRE: VanillaApparelExpanded.SkillRecord_Learn_Patch.Prefix
+Skyfaller.Tick: PRE: VFECore.Patch_Tick.Prefix
+SlaveRebellionUtility.CanApplyWeaponFactor: post: MVCF.PatchSets.PatchSet_MultiVerb.CanApplyWeaponFactor
+SocialCardUtility.DrawPregnancyApproach: TRANS: VFECore.SocialCardUtility_DrawPregnancyApproach_Patch.Transpiler
+Stance_Warmup.StanceDraw: post: VFECore.Stance_WarmupStanceDraw_Patch.Postfix
+StartingPawnUtility.NewGeneratedStartingPawn: TRANS: AlienRace.HarmonyPatches.NewGeneratedStartingPawnTranspiler
+StartingPawnUtility.RegenerateStartingPawnInPlace: PRE: AlienRace.HarmonyPatches.RegenerateStartingPawnInPlacePrefix
+StartingPawnUtility.get_DefaultStartingPawnRequest: TRANS: AlienRace.HarmonyPatches.DefaultStartingPawnTranspiler
+StatExtension.GetStatValue: post: [0]VFECore.StatExtension_GetStatValue_Patch.Postfix
+StatPart_Age.AgeMultiplier: PRE: AlienRace.HarmonyPatches.StatPartAgeMultiplierPrefix
+StatPart_BlindPsychicSensitivityOffset.ConsideredBlind: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+StatPart_FertilityByGenderAge.AgeFactor: TRANS: AlienRace.HarmonyPatches.FertilityAgeFactorTranspiler
+StatPart_NaturalNotMissingBodyPartsCoverage.<>c.<TryGetValue>b__2_0: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+StatWorker.GetBaseValueFor: PRE: MVCF.PatchSets.PatchSet_Stats.GetBaseValue_Prefix
+StatWorker.GetExplanationUnfinalized: TRANS: VFECore.StatWorker_GetExplanationUnfinalized_Transpiler.Transpiler
+StatWorker.GetValueUnfinalized: TRANS: VFECore.StatWorker_GetValueUnfinalized_Transpiler.Transpiler
+StatsReportUtility.DrawStatsReport: PRE: VFECore.DrawStatsReport_Patch.Prefix post: VFECore.DrawStatsReport_Patch.Postfix
+Storyteller.TryFire: PRE: VanillaStorytellersExpanded.Patch_MakeIncidentsForInterval.Prefix
+StorytellerComp.IncidentChanceFinal: post: VanillaStorytellersExpanded.Patch_IncidentChanceFinal.Postfix
+Targeter.GetTargetingVerb: PRE: MVCF.PatchSets.PatchSet_MultiVerb.Prefix_GetTargetingVerb
+TerrainGrid.RemoveTopLayer: PRE: VFECore.__TerrainGrid.Prefix
+TerrainGrid.SetTerrain: PRE: VFECore._TerrainGrid.Prefix post: VFECore._TerrainGrid.Postfix
+Thing.Ingested: PRE: AlienRace.HarmonyPatches.IngestedPrefix
+Thing.SetFactionDirect: post: AlienRace.HarmonyPatches.SetFactionDirectPostfix
+Thing.TakeDamage: PRE: AnimalBehaviours.Patch_TakeDamage.Prefix post: VFECore.Patch_Thing_TakeDamage.Postfix
+Thing.get_DefaultGraphic: PRE: GraphicCustomization.Thing_DefaultGraphic_Patch.Prefix
+ThingDef.<ConfigErrors>d__352.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+ThingDef.SpecialDisplayStats: post: VFECore.ThingDef_SpecialDisplayStats_Patch.Postfix, NocturnalAnimals.ThingDef_Patch+VanillaExpandedFramework_ThingDef_SpecialDisplayStats_Nocturnal_Patch.Postfix, AnimalBehaviours.Patch_ThingDef+VanillaExpandedFramework_ThingDef_SpecialDisplayStats_Patch.Postfix, VFECore.Patch_ThingDef+SetFaction.Postfix, MVCF.PatchSets.PatchSet_InfoCard.ReplaceVerbStatDisplay
+ThingDef.get_DescriptionDetailed: TRANS: VFECore.ThingDef_StatOffsetFromGear_Transpiler.Transpiler
+ThingDef.get_IsRangedWeapon: PRE: MVCF.PatchSets.PatchSet_PreferMelee.Prefix_IsRangedWeapon post: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.IsRangedWeapon
+ThingDef.get_IsWeapon: post: VanillaWeaponsExpanded.FloatMenuMakerMap_AddHumanlikeOrders_Patch.IsWeapon
+ThingDefGenerator_Corpses.ImpliedCorpseDefs: post: VFECore.ThingDefGenerator_Corpses_ImpliedCorpseDefs_Patch.Postfix
+ThingSelectionUtility.SelectableByMapClick: post: VanillaApparelExpanded.VAE_ThingSelectionUtility_Patch.GhillieException
+ThingStuffPair.get_Commonality: post: VFECore.Commonality_Patch.Postfix
+ThingWithComps.ExposeData: post: VFECore.Thing_ExposeData_Patch.Postfix
+ThingWithComps.SpawnSetup: post: VFECore.Thing_SpawnSetup_Patch.Postfix
+ThoughtUtility.CanGetThought: post: AlienRace.HarmonyPatches.CanGetThoughtPostfix
+ThoughtWorker_IsCarryingRangedWeapon.CurrentStateInternal: PRE: MVCF.PatchSets.PatchSet_Brawlers.CurrentStateInternal_Prefix
+ThoughtWorker_Man.CurrentSocialStateInternal: TRANS: AlienRace.HarmonyPatches.MisandryMisogynyTranspiler
+ThoughtWorker_MissingTongue.CurrentStateInternal: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+ThoughtWorker_Woman.CurrentSocialStateInternal: TRANS: AlienRace.HarmonyPatches.MisandryMisogynyTranspiler
+TickManager.DoSingleTick: PRE: VFECore.DoSingleTick_Patch.Prefix post: VFECore.DoSingleTick_Patch.Postfix
+TileFinder.<>c__DisplayClass1_0.<RandomSettlementTileFor>b__1: post: VFECore.Patch_RandomSettlementTileFor.Postfix
+TileFinder.RandomSettlementTileFor: PRE: VFECore.Patch_RandomSettlementTileFor+RandomSettlementTileFor_Patch.Prefix post: VFECore.Patch_RandomSettlementTileFor+RandomSettlementTileFor_Patch.Postfix
+Toils_Combat.TrySetJobToUseAttackVerb: PRE: MVCF.PatchSets.PatchSet_Hunting.TrySetJobToUseAttackVerb
+Toils_StyleChange.FinalizeLookChange: post: AlienRace.HarmonyPatches.FinalizeLookChangePostfix
+Tool.AdjustedCooldown: post: VFECore.Tool_AdjustedCooldown_Patch.Postfix
+Tornado.CellImmuneToDamage: post: VFECore.CellImmuneToDamage.Postfix
+TradeUI.DrawTradeableRow: TRANS: AlienRace.HarmonyPatches.DrawTradeableRowTranspiler
+Tradeable_Pawn.ResolveTrade: TRANS: AlienRace.HarmonyPatches.TradeablePawnResolveTranspiler
+TraderCaravanUtility.GetTraderCaravanRole: post: VFECore.Patch_TraderCaravanUtility+GetTraderCaravanRole.Postfix TRANS: AlienRace.HarmonyPatches.GetTraderCaravanRoleTranspiler
+TrainableUtility.TamenessCanDecay: PRE: AnimalBehaviours.VanillaExpandedFramework_TrainableUtility_TamenessCanDecay_Patch.RemoveTamenessDecayCheck
+TraitSet.GainTrait: PRE: AlienRace.HarmonyPatches.GainTraitPrefix
+TransferableUIUtility.ContentSourceDescription: PRE: VFECore.TransferableUIUtility_ContentSourceDescription_Patch.Prefix
+TransferableUIUtility.DoExtraIcons: post: VFE.Mechanoids.TransferableUIUtility_DoExtraIcons_Patch.Postfix
+Transition.Execute: PRE: VanillaStorytellersExpanded.Patch_Execute.Prefix
+TurretTop.DrawTurret: PRE: VanillaWeaponsExpandedLaser.HarmonyPatches.CYA_TuretTop_DrawTurret_LaserTurret_Patch.Prefix
+TurretTop.get_CurRotation: PRE: VFECore.TurretTop_get_CurRotation_Patch.Prefix
+UIRoot.UIRootOnGUI: post: HugsLib.Patches.UIRoot_OnGUI_Patch.OnGUIHook
+Verb.Available: post: VFECore.Available.Postfix
+Verb.ExposeData: post: MVCF.PatchSets.PatchSet_Base.PostExposeDataVerb
+Verb.OrderForceTarget: PRE: MVCF.PatchSets.PatchSet_MultiVerb.Prefix_OrderForceTarget
+Verb.TryStartCastOn: PRE: [100]VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Verb_Shoot_TryStartCastOn_RapidFire_Patch.TryStartCastOn_RapidFire_Prefix post: [401]VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Verb_Shoot_TryStartCastOn_RapidFire_Patch.TryStartCastOn_RapidFire_Postfix
+Verb.get_EquipmentSource: PRE: MVCF.PatchSets.PatchSet_MultiVerb.Prefix_EquipmentSource
+VerbProperties.<ConfigErrors>d__144.MoveNext: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+VerbProperties.AdjustedAccuracy: TRANS: MVCF.PatchSets.PatchSet_Stats.AccuracyTranspiler
+VerbProperties.AdjustedCooldown: post: VFECore.VerbProperties_AdjustedCooldown_Patch.Postfix
+VerbProperties.AdjustedCooldown: post: AnimalBehaviours.VanillaExpandedFramework_VerbProperties_AdjustedCooldown_Patch.LastStand TRANS: MVCF.PatchSets.PatchSet_Stats.CooldownTranspiler1
+VerbProperties.AdjustedCooldown: TRANS: MVCF.PatchSets.PatchSet_Stats.CooldownTranspiler2
+VerbProperties.AdjustedMeleeDamageAmount: post: VFECore.AdjustedMeleeDamageAmount_Patch.Postfix
+VerbTracker.CreateVerbTargetCommand: post: GraphicCustomization.VerbTracker_CreateVerbTargetCommand_Patch.Postfix
+VerbTracker.InitVerb: post: MVCF.PatchSets.PatchSet_Base.PostInitVerb
+Verb_LaunchProjectile.TryCastShot: PRE: VFECore.Verb_LaunchProjectile_TryCastShot.Prefix post: VFECore.Verb_LaunchProjectile_TryCastShot.Postfix
+Verb_MeleeAttackDamage.DamageInfosToApply: post: AlienRace.HarmonyPatches.DamageInfosToApplyPostfix
+VersionControl.DrawInfoInCorner: post: HarmonyMod.VersionControl_DrawInfoInCorner_Patch.Postfix
+WITab_Caravan_Gear.TryEquipDraggedItem: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+WITab_Caravan_Health.DoRow: TRANS: AlienRace.HarmonyPatches.BodyReferenceTranspiler
+WanderUtility.GetColonyWanderRoot: post: VFE.Mechanoids.HarmonyPatches.GetColonyWanderRoot_Patch.Postfix
+WeatherManager.get_CurWeatherPerceived: post: VFECore.Patch_CurWeatherPerceived.Postfix
+WeatherWorker..ctor: post: VFECore.WeatherWorker_Constructor_Patch.Postfix
+Widgets.DefIcon: PRE: PipeSystem.Widgets_DefIcon_Patch.Prefix
+WorkGiver_ConstructDeliverResourcesToBlueprints.JobOnThing: PRE: VFECore.Workgiver_Patches.Prefix
+WorkGiver_ConstructDeliverResourcesToFrames.JobOnThing: PRE: VFECore.Workgiver_Patches.Prefix
+WorkGiver_ConstructFinishFrames.JobOnThing: PRE: VFECore.Workgiver_Patches.Prefix
+WorkGiver_GrowerHarvest.HasJobOnCell: post: AlienRace.HarmonyPatches.HasJobOnCellHarvestPostfix
+WorkGiver_GrowerSow.ExtraRequirements: post: AlienRace.HarmonyPatches.ExtraRequirementsGrowerSowPostfix
+WorkGiver_HunterHunt.HasHuntingWeapon: PRE: MVCF.PatchSets.PatchSet_Hunting.HasHuntingWeapon
+WorkGiver_InteractAnimal.CanInteractWithAnimal: post: AlienRace.HarmonyPatches.CanInteractWithAnimalPostfix
+WorkGiver_Researcher.ShouldSkip: post: AlienRace.HarmonyPatches.ShouldSkipResearchPostfix
+World.NaturalRockTypesIn: post: VFECore.World_NaturalRockTypesIn_Patch.Postfix
+WorldFactionsUIUtility.<>c__DisplayClass8_0.<DoWindowContents>g__CanAddFaction|1: TRANS: VFECore.Patch_WorldFactionsUIUtility.Transpiler
+WorldGenStep_Roads.<>c.<GenerateRoadEndpoints>b__12_0: post: VFECore.Patch_GenerateRoadEndpoints.Postfix
+WorldObjectsHolder.Add: PRE: KCSG.Prefix_WorldObjectsHolder_Add.Prefix
+Harmony versions present: 2.2.2.0: net.pardeike.rimworld.lib.harmony, UnlimitedHugs.HugsLib, OskarPotocki.VFECore, ModSettingsFrameworkMod, GraphicCustomization.Mod, OskarPotocki.HeavyWeapons, legodude17.mvcf, OskarPotocki.VanillaStorytellersExpanded, com.ogliss.rimworld.mod.VanillaWeaponsExpandedLaser, rimworld.erdelf.alien_race.main, Kikohi.KCSG, Kikohi.PipeSystem, rimworld.emitbreaker.MIM.WH40k.Core
+
+Platform information: (hidden, use publishing options to include)
+
+Log file contents:
+Mono path[0] = '[Rimworld_dir]/RimWorldWin64_Data/Managed'
+Mono config path = '[Rimworld_dir]/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path [Rimworld_dir]/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: [Renderer information redacted]
+Begin MonoManager ReloadAssembly
+RimWorld 1.4.3901 rev238
+[HugsLib] version 10.0.1
+[MIM - WH40k Sautekh] Patch operation Verse.PatchOperationFindMod(Biotech) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3092955929\1.4\Patches\Biotech\ThisMod_ChangeScenarioSetting_SA.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MIM - WH40k Szarekhan] Patch operation Verse.PatchOperationFindMod(Biotech) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3092945855\1.4\Patches\Biotech\ThisMod_ChangeScenarioSetting_SZ.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named EMNC_NecronProtocol_T1_CanoptekScarab_Szarekhan found to give to VFECore.Abilities.AbilityExtension_Spawn VFECore.Abilities.AbilityExtension_Spawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named EMNC_NecronProtocol_T1_CanoptekScarab_Sautekh found to give to VFECore.Abilities.AbilityExtension_Spawn VFECore.Abilities.AbilityExtension_Spawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.PawnKindDef named EMNC_Drazak_NecronLord found to give to RimWorld.PawnGenOption (null w=1.00 c=null) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.PawnKindDef named EMNC_Drazak_NecronLord found to give to RimWorld.PawnGenOption (null w=200.00 c=null) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.PawnKindDef named EMNC_Drazak_NecronLord found to give to RimWorld.PawnGenOption (null w=1.00 c=null) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.PawnKindDef named EMNC_Drazak_NecronLord found to give to RimWorld.PawnGenOption (null w=1.00 c=null) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.PawnKindDef named EMNC_Drazak_NecronLord found to give to RimWorld.PawnGenOption (null w=1.00 c=null) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace found to give to Verse.PawnKindDef Colonist_EMNC_Sautekh_NecronCanoptekScarabSwarm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace found to give to Verse.PawnKindDef Colonist_EMNC_Sautekh_NecronCanoptekSpyder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T1_CanoptekScarab_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T1_CanoptekSpyder_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T2_Warrior_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_FlayedOne_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Plasmancer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Lord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_Immortal_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_LokhustDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_HeavyDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_SkorpekhDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Deathmark_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_HexmarkDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Lychguard_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_LokhustLord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_SkorpekhLord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T6_Overlord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T1_CanoptekScarab_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T2_Warrior_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_FlayedOne_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Plasmancer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Lord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_Immortal_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_LokhustDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_HeavytDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_SkorpekhDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Deathmark_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_HexmarkDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T1_CanoptekScarab_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Lychguard_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T1_CanoptekSpyder_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_LokhustLord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T2_Warrior_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_SkorpekhLord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T6_Overlord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_FlayedOne_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Plasmancer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Lord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_Immortal_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_LokhustDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_HeavyDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_SkorpekhDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Deathmark_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_HexmarkDestroyer_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Lychguard_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_LokhustLord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_SkorpekhLord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T6_Overlord_Sautekh (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T1_CanoptekScarab_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T2_Warrior_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_FlayedOne_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Plasmancer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T3_Lord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_Immortal_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_LokhustDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_HeavytDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T4_SkorpekhDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Deathmark_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_HexmarkDestroyer_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_Lychguard_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_LokhustLord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T5_SkorpekhLord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.RecipeDef named Make_EMNC_NecronProtocol_T6_Overlord_Szarekhan (wanter=recipeList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace found to give to Verse.PawnKindDef Colonist_EMNC_Szarekhan_NecronCanoptekScarabSwarm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace found to give to Verse.PawnKindDef Colonist_EMNC_Szarekhan_NecronCanoptekSpyder 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Sautekh (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to RimWorld.FactionDef named EMNC_Szarekhan (wanter=factions) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Sautekh_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekSpyderRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ThingDef named EMNC_Szarekhan_NecronCanoptekScarabSwarmRaceRace (wanter=notXenophobistTowards) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Colonist_EMNC_Sautekh_NecronCanoptekScarabSwarm: no race 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Colonist_EMNC_Sautekh_NecronCanoptekScarabSwarm: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnKindDef+<ConfigErrors>d__113.MoveNext () [0x0025d] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.DefDatabase`1[T].ErrorCheckAllDefs () [0x0006b] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Colonist_EMNC_Sautekh_NecronCanoptekSpyder: no race 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Colonist_EMNC_Sautekh_NecronCanoptekSpyder: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnKindDef+<ConfigErrors>d__113.MoveNext () [0x0025d] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.DefDatabase`1[T].ErrorCheckAllDefs () [0x0006b] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Colonist_EMNC_Szarekhan_NecronCanoptekScarabSwarm: no race 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Colonist_EMNC_Szarekhan_NecronCanoptekScarabSwarm: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnKindDef+<ConfigErrors>d__113.MoveNext () [0x0025d] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.DefDatabase`1[T].ErrorCheckAllDefs () [0x0006b] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Config error in Colonist_EMNC_Szarekhan_NecronCanoptekSpyder: no race 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception in ConfigErrors() of Colonist_EMNC_Szarekhan_NecronCanoptekSpyder: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnKindDef+<ConfigErrors>d__113.MoveNext () [0x0025d] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.DefDatabase`1[T].ErrorCheckAllDefs () [0x0006b] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not execute post-long-event action. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.RaceProperties.get_AnyPawnKind () [0x00019] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.ThingDef.ResolveIcon () [0x00022] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.BuildableDef.<PostLoad>b__71_0 () [0x00021] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x0007c] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not execute post-long-event action. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.RaceProperties.get_AnyPawnKind () [0x00019] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.ThingDef.ResolveIcon () [0x00022] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.BuildableDef.<PostLoad>b__71_0 () [0x00021] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x0007c] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not execute post-long-event action. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.RaceProperties.get_AnyPawnKind () [0x00019] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.ThingDef.ResolveIcon () [0x00022] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.BuildableDef.<PostLoad>b__71_0 () [0x00021] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x0007c] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not execute post-long-event action. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.RaceProperties.get_AnyPawnKind () [0x00019] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.ThingDef.ResolveIcon () [0x00022] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.BuildableDef.<PostLoad>b__71_0 () [0x00021] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x0007c] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in static constructor of VFE.Mechanoids.HarmonyPatches.MechanoidDraftCompInitializer: System.TypeInitializationException: The type initializer for 'VFE.Mechanoids.HarmonyPatches.MechanoidDraftCompInitializer' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at VFE.Mechanoids.HarmonyPatches.MechanoidDraftCompInitializer..cctor () [0x00017] in <ff143e3bd25a4c1c8f7d1ea0ee764492>:0 
+   --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x0002a] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x00025] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Alien race successfully completed 239 patches with harmony.
+MVCF successfully applied 40 patches
+[UnlimitedHugs.HugsLib] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Game.DeinitAndRemoveMap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[OskarPotocki.VFECore] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.MapDeiniter.Deinit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named OGN_Melee_FabricatorClaw 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.IncidentDef named OG_Tyranid_Infestation 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ScenPart has null incident after loading. Changing to TraderCaravanArrival 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Loaded file (Scenario) is from version 1.4.3704 rev896, we are running version 1.4.3901 rev238. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.PawnKindDef named ScavengerMechanitor 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.PawnKindDef named Mech_MilitorModified 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.PawnKindDef named Mech_MilitorModifiedOne 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.PawnKindDef named Mech_MilitorModifiedTwo 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.PawnKindDef named Mech_MilitorModifiedThree 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.PawnKindDef named Mech_MilitorModifiedFour 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.IncidentDef named DamagedShipPod 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to RimWorld.IncidentDef named OverdrivenFabricatorAlpha 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.PawnKindDef named Mech_MilitorQueen 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ScenPart has null incident after loading. Changing to Eclipse 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ScenPart has null incident after loading. Changing to Eclipse 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Some ScenParts had null defs. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Superior Chaplain at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Archic Chief at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Spirit Chief at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Wolf Pack Wolf Priest at 75% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Senior Chaplain at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Chief Palatine at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name:  at 0% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Chapter Chaplain at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name:  at 0% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Superior Wolf Priest at 33% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: High Chaplain at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to generate a unique precept name: Chaplain of the Chapter at 50% uniqueness 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in WorldGenStep: System.NullReferenceException: Object reference not set to an instance of an object
+  at AlienRace.HarmonyPatches+<>c.<TryMakeInitialRelationsWithPostfix>b__148_4 (RimWorld.PawnGenOption pgm) [0x00000] in <ae6e14b3196c46f7a992366f0846dfd7>:0 
+  at System.Linq.Lookup`2[TKey,TElement].Create (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) [0x00017] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.GroupedEnumerable`2[TSource,TKey].GetEnumerator () [0x00000] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.OrderedEnumerable`1[TElement].TryGetFirst (System.Boolean& found) [0x00007] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.TryGetFirst[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Boolean& found) [0x00018] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00000] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at AlienRace.HarmonyPatches.<TryMakeInitialRelationsWithPostfix>g__GetRaceOfFaction|148_0 (RimWorld.FactionDef fac) [0x00092] in <ae6e14b3196c46f7a992366f0846dfd7>:0 
+  at AlienRace.HarmonyPatches.TryMakeInitialRelationsWithPostfix (RimWorld.Faction __instance, RimWorld.Faction other) [0x00050] in <ae6e14b3196c46f7a992366f0846dfd7>:0 
+  at (wrapper dynamic-method) RimWorld.Faction.RimWorld.Faction.TryMakeInitialRelationsWith_Patch2(RimWorld.Faction,RimWorld.Faction)
+  at RimWorld.FactionGenerator.NewGeneratedFaction (RimWorld.FactionGeneratorParms parms) [0x0017c] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) RimWorld.FactionGenerator.RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch0(System.Collections.Generic.List`1<RimWorld.FactionDef>)
+  at RimWorld.Planet.WorldGenStep_Factions.GenerateFresh (System.String seed) [0x00005] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Planet.WorldGenerator.GenerateWorld (System.Single planetCoverage, System.String seedString, RimWorld.Planet.OverallRainfall overallRainfall, RimWorld.Planet.OverallTemperature overallTemperature, RimWorld.Planet.OverallPopulation population, System.Collections.Generic.List`1[T] factions, System.Single pollution) [0x0010e] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 37002.
+Total: 374.984700 ms (FindLiveObjects: 1.650100 ms CreateObjectMapping: 1.502000 ms MarkObjects: 371.721000 ms  DeleteObjects: 0.111200 ms)
+
+Exception filling window for RimWorld.Page_ChooseIdeoPreset: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnGenerationRequest.AlwaysDownedLifeStages (System.String& stages) [0x00020] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest.ValidateAndFix () [0x000c2] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest..ctor (Verse.PawnKindDef kind, RimWorld.Faction faction, RimWorld.PawnGenerationContext context, System.Int32 tile, System.Boolean forceGenerateNewPawn, System.Boolean allowDead, System.Boolean allowDowned, System.Boolean canGeneratePawnRelations, System.Boolean mustBeCapableOfViolence, System.Single colonistRelationChanceFactor, System.Boolean forceAddFreeWarmLayerIfNeeded, System.Boolean allowGay, System.Boolean allowPregnant, System.Boolean allowFood, System.Boolean allowAddictions, System.Boolean inhabitant, System.Boolean certainlyBeenInCryptosleep, System.Boolean forceRedressWorldPawnIfFormerColonist, System.Boolean worldPawnFactionDoesntMatter, System.Single biocodeWeaponChance, System.Single biocodeApparelChance, Verse.Pawn extraPawnForExtraRelationChance, System.Single relationWithExtraPawnChanceFactor, System.Predicate`1[T] validatorPreGear, System.Predicate`1[T] validatorPostGear, System.Collections.Generic.IEnumerable`1[T] forcedTraits, System.Collections.Generic.IEnumerable`1[T] prohibitedTraits, System.Nullable`1[T] minChanceToRedressWorldPawn, System.Nullable`1[T] fixedBiologicalAge, System.Nullable`1[T] fixedChronologicalAge, System.Nullable`1[T] fixedGender, System.String fixedLastName, System.String fixedBirthName, RimWorld.RoyalTitleDef fixedTitle, RimWorld.Ideo fixedIdeo, System.Boolean forceNoIdeo, System.Boolean forceNoBackstory, System.Boolean forbidAnyTitle, System.Boolean forceDead, System.Collections.Generic.List`1[T] forcedXenogenes, System.Collections.Generic.List`1[T] forcedEndogenes, RimWorld.XenotypeDef forcedXenotype, RimWorld.CustomXenotype forcedCustomXenotype, System.Collections.Generic.List`1[T] allowedXenotypes, System.Single forceBaselinerChance, Verse.DevelopmentalStage developmentalStages, System.Func`2[T,TResult] pawnKindDefGetter, System.Nullable`1[T] excludeBiologicalAgeRange, System.Nullable`1[T] biologicalAgeRange, System.Boolean forceRecruitable) [0x001f9] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.get_DefaultStartingPawnRequest_Patch0()
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.NewGeneratedStartingPawn_Patch0(int)
+  at Verse.StartingPawnUtility.AddNewPawn (System.Int32 index) [0x00000] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawns.GenerateStartingPawns () [0x0000b] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawnsBase.PostIdeoChosen () [0x00164] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) RimWorld.Scenario.RimWorld.Scenario.PostIdeoChosen_Patch1(RimWorld.Scenario)
+  at RimWorld.Page_ChooseIdeoPreset.DoClassic () [0x00060] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoNext () [0x00035] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page.DoBottomButtons (UnityEngine.Rect rect, System.String nextLabel, System.String midLabel, System.Action midAct, System.Boolean showNext, System.Boolean doNextOnKeypress) [0x000fa] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoWindowContents (UnityEngine.Rect inRect) [0x003b7] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception filling window for RimWorld.Page_ChooseIdeoPreset: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnGenerationRequest.AlwaysDownedLifeStages (System.String& stages) [0x00020] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest.ValidateAndFix () [0x000c2] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest..ctor (Verse.PawnKindDef kind, RimWorld.Faction faction, RimWorld.PawnGenerationContext context, System.Int32 tile, System.Boolean forceGenerateNewPawn, System.Boolean allowDead, System.Boolean allowDowned, System.Boolean canGeneratePawnRelations, System.Boolean mustBeCapableOfViolence, System.Single colonistRelationChanceFactor, System.Boolean forceAddFreeWarmLayerIfNeeded, System.Boolean allowGay, System.Boolean allowPregnant, System.Boolean allowFood, System.Boolean allowAddictions, System.Boolean inhabitant, System.Boolean certainlyBeenInCryptosleep, System.Boolean forceRedressWorldPawnIfFormerColonist, System.Boolean worldPawnFactionDoesntMatter, System.Single biocodeWeaponChance, System.Single biocodeApparelChance, Verse.Pawn extraPawnForExtraRelationChance, System.Single relationWithExtraPawnChanceFactor, System.Predicate`1[T] validatorPreGear, System.Predicate`1[T] validatorPostGear, System.Collections.Generic.IEnumerable`1[T] forcedTraits, System.Collections.Generic.IEnumerable`1[T] prohibitedTraits, System.Nullable`1[T] minChanceToRedressWorldPawn, System.Nullable`1[T] fixedBiologicalAge, System.Nullable`1[T] fixedChronologicalAge, System.Nullable`1[T] fixedGender, System.String fixedLastName, System.String fixedBirthName, RimWorld.RoyalTitleDef fixedTitle, RimWorld.Ideo fixedIdeo, System.Boolean forceNoIdeo, System.Boolean forceNoBackstory, System.Boolean forbidAnyTitle, System.Boolean forceDead, System.Collections.Generic.List`1[T] forcedXenogenes, System.Collections.Generic.List`1[T] forcedEndogenes, RimWorld.XenotypeDef forcedXenotype, RimWorld.CustomXenotype forcedCustomXenotype, System.Collections.Generic.List`1[T] allowedXenotypes, System.Single forceBaselinerChance, Verse.DevelopmentalStage developmentalStages, System.Func`2[T,TResult] pawnKindDefGetter, System.Nullable`1[T] excludeBiologicalAgeRange, System.Nullable`1[T] biologicalAgeRange, System.Boolean forceRecruitable) [0x001f9] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.get_DefaultStartingPawnRequest_Patch0()
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.NewGeneratedStartingPawn_Patch0(int)
+  at Verse.StartingPawnUtility.AddNewPawn (System.Int32 index) [0x00000] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawns.GenerateStartingPawns () [0x0000b] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawnsBase.PostIdeoChosen () [0x00164] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) RimWorld.Scenario.RimWorld.Scenario.PostIdeoChosen_Patch1(RimWorld.Scenario)
+  at RimWorld.Page_ChooseIdeoPreset.DoClassic () [0x00060] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoNext () [0x00035] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page.DoBottomButtons (UnityEngine.Rect rect, System.String nextLabel, System.String midLabel, System.Action midAct, System.Boolean showNext, System.Boolean doNextOnKeypress) [0x000fa] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoWindowContents (UnityEngine.Rect inRect) [0x003b7] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception filling window for RimWorld.Page_ChooseIdeoPreset: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnGenerationRequest.AlwaysDownedLifeStages (System.String& stages) [0x00020] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest.ValidateAndFix () [0x000c2] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest..ctor (Verse.PawnKindDef kind, RimWorld.Faction faction, RimWorld.PawnGenerationContext context, System.Int32 tile, System.Boolean forceGenerateNewPawn, System.Boolean allowDead, System.Boolean allowDowned, System.Boolean canGeneratePawnRelations, System.Boolean mustBeCapableOfViolence, System.Single colonistRelationChanceFactor, System.Boolean forceAddFreeWarmLayerIfNeeded, System.Boolean allowGay, System.Boolean allowPregnant, System.Boolean allowFood, System.Boolean allowAddictions, System.Boolean inhabitant, System.Boolean certainlyBeenInCryptosleep, System.Boolean forceRedressWorldPawnIfFormerColonist, System.Boolean worldPawnFactionDoesntMatter, System.Single biocodeWeaponChance, System.Single biocodeApparelChance, Verse.Pawn extraPawnForExtraRelationChance, System.Single relationWithExtraPawnChanceFactor, System.Predicate`1[T] validatorPreGear, System.Predicate`1[T] validatorPostGear, System.Collections.Generic.IEnumerable`1[T] forcedTraits, System.Collections.Generic.IEnumerable`1[T] prohibitedTraits, System.Nullable`1[T] minChanceToRedressWorldPawn, System.Nullable`1[T] fixedBiologicalAge, System.Nullable`1[T] fixedChronologicalAge, System.Nullable`1[T] fixedGender, System.String fixedLastName, System.String fixedBirthName, RimWorld.RoyalTitleDef fixedTitle, RimWorld.Ideo fixedIdeo, System.Boolean forceNoIdeo, System.Boolean forceNoBackstory, System.Boolean forbidAnyTitle, System.Boolean forceDead, System.Collections.Generic.List`1[T] forcedXenogenes, System.Collections.Generic.List`1[T] forcedEndogenes, RimWorld.XenotypeDef forcedXenotype, RimWorld.CustomXenotype forcedCustomXenotype, System.Collections.Generic.List`1[T] allowedXenotypes, System.Single forceBaselinerChance, Verse.DevelopmentalStage developmentalStages, System.Func`2[T,TResult] pawnKindDefGetter, System.Nullable`1[T] excludeBiologicalAgeRange, System.Nullable`1[T] biologicalAgeRange, System.Boolean forceRecruitable) [0x001f9] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.get_DefaultStartingPawnRequest_Patch0()
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.NewGeneratedStartingPawn_Patch0(int)
+  at Verse.StartingPawnUtility.AddNewPawn (System.Int32 index) [0x00000] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawns.GenerateStartingPawns () [0x0000b] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawnsBase.PostIdeoChosen () [0x00164] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) RimWorld.Scenario.RimWorld.Scenario.PostIdeoChosen_Patch1(RimWorld.Scenario)
+  at RimWorld.Page_ChooseIdeoPreset.DoClassic () [0x00060] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoNext () [0x00035] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page.DoBottomButtons (UnityEngine.Rect rect, System.String nextLabel, System.String midLabel, System.Action midAct, System.Boolean showNext, System.Boolean doNextOnKeypress) [0x000fa] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoWindowContents (UnityEngine.Rect inRect) [0x003b7] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception filling window for RimWorld.Page_ChooseIdeoPreset: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnGenerationRequest.AlwaysDownedLifeStages (System.String& stages) [0x00020] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest.ValidateAndFix () [0x000c2] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest..ctor (Verse.PawnKindDef kind, RimWorld.Faction faction, RimWorld.PawnGenerationContext context, System.Int32 tile, System.Boolean forceGenerateNewPawn, System.Boolean allowDead, System.Boolean allowDowned, System.Boolean canGeneratePawnRelations, System.Boolean mustBeCapableOfViolence, System.Single colonistRelationChanceFactor, System.Boolean forceAddFreeWarmLayerIfNeeded, System.Boolean allowGay, System.Boolean allowPregnant, System.Boolean allowFood, System.Boolean allowAddictions, System.Boolean inhabitant, System.Boolean certainlyBeenInCryptosleep, System.Boolean forceRedressWorldPawnIfFormerColonist, System.Boolean worldPawnFactionDoesntMatter, System.Single biocodeWeaponChance, System.Single biocodeApparelChance, Verse.Pawn extraPawnForExtraRelationChance, System.Single relationWithExtraPawnChanceFactor, System.Predicate`1[T] validatorPreGear, System.Predicate`1[T] validatorPostGear, System.Collections.Generic.IEnumerable`1[T] forcedTraits, System.Collections.Generic.IEnumerable`1[T] prohibitedTraits, System.Nullable`1[T] minChanceToRedressWorldPawn, System.Nullable`1[T] fixedBiologicalAge, System.Nullable`1[T] fixedChronologicalAge, System.Nullable`1[T] fixedGender, System.String fixedLastName, System.String fixedBirthName, RimWorld.RoyalTitleDef fixedTitle, RimWorld.Ideo fixedIdeo, System.Boolean forceNoIdeo, System.Boolean forceNoBackstory, System.Boolean forbidAnyTitle, System.Boolean forceDead, System.Collections.Generic.List`1[T] forcedXenogenes, System.Collections.Generic.List`1[T] forcedEndogenes, RimWorld.XenotypeDef forcedXenotype, RimWorld.CustomXenotype forcedCustomXenotype, System.Collections.Generic.List`1[T] allowedXenotypes, System.Single forceBaselinerChance, Verse.DevelopmentalStage developmentalStages, System.Func`2[T,TResult] pawnKindDefGetter, System.Nullable`1[T] excludeBiologicalAgeRange, System.Nullable`1[T] biologicalAgeRange, System.Boolean forceRecruitable) [0x001f9] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.get_DefaultStartingPawnRequest_Patch0()
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.NewGeneratedStartingPawn_Patch0(int)
+  at Verse.StartingPawnUtility.AddNewPawn (System.Int32 index) [0x00000] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawns.GenerateStartingPawns () [0x0000b] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawnsBase.PostIdeoChosen () [0x00164] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) RimWorld.Scenario.RimWorld.Scenario.PostIdeoChosen_Patch1(RimWorld.Scenario)
+  at RimWorld.Page_ChooseIdeoPreset.DoClassic () [0x00060] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoNext () [0x00035] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page.DoBottomButtons (UnityEngine.Rect rect, System.String nextLabel, System.String midLabel, System.Action midAct, System.Boolean showNext, System.Boolean doNextOnKeypress) [0x000fa] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoWindowContents (UnityEngine.Rect inRect) [0x003b7] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception filling window for RimWorld.Page_ChooseIdeoPreset: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnGenerationRequest.AlwaysDownedLifeStages (System.String& stages) [0x00020] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest.ValidateAndFix () [0x000c2] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest..ctor (Verse.PawnKindDef kind, RimWorld.Faction faction, RimWorld.PawnGenerationContext context, System.Int32 tile, System.Boolean forceGenerateNewPawn, System.Boolean allowDead, System.Boolean allowDowned, System.Boolean canGeneratePawnRelations, System.Boolean mustBeCapableOfViolence, System.Single colonistRelationChanceFactor, System.Boolean forceAddFreeWarmLayerIfNeeded, System.Boolean allowGay, System.Boolean allowPregnant, System.Boolean allowFood, System.Boolean allowAddictions, System.Boolean inhabitant, System.Boolean certainlyBeenInCryptosleep, System.Boolean forceRedressWorldPawnIfFormerColonist, System.Boolean worldPawnFactionDoesntMatter, System.Single biocodeWeaponChance, System.Single biocodeApparelChance, Verse.Pawn extraPawnForExtraRelationChance, System.Single relationWithExtraPawnChanceFactor, System.Predicate`1[T] validatorPreGear, System.Predicate`1[T] validatorPostGear, System.Collections.Generic.IEnumerable`1[T] forcedTraits, System.Collections.Generic.IEnumerable`1[T] prohibitedTraits, System.Nullable`1[T] minChanceToRedressWorldPawn, System.Nullable`1[T] fixedBiologicalAge, System.Nullable`1[T] fixedChronologicalAge, System.Nullable`1[T] fixedGender, System.String fixedLastName, System.String fixedBirthName, RimWorld.RoyalTitleDef fixedTitle, RimWorld.Ideo fixedIdeo, System.Boolean forceNoIdeo, System.Boolean forceNoBackstory, System.Boolean forbidAnyTitle, System.Boolean forceDead, System.Collections.Generic.List`1[T] forcedXenogenes, System.Collections.Generic.List`1[T] forcedEndogenes, RimWorld.XenotypeDef forcedXenotype, RimWorld.CustomXenotype forcedCustomXenotype, System.Collections.Generic.List`1[T] allowedXenotypes, System.Single forceBaselinerChance, Verse.DevelopmentalStage developmentalStages, System.Func`2[T,TResult] pawnKindDefGetter, System.Nullable`1[T] excludeBiologicalAgeRange, System.Nullable`1[T] biologicalAgeRange, System.Boolean forceRecruitable) [0x001f9] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.get_DefaultStartingPawnRequest_Patch0()
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.NewGeneratedStartingPawn_Patch0(int)
+  at Verse.StartingPawnUtility.AddNewPawn (System.Int32 index) [0x00000] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawns.GenerateStartingPawns () [0x0000b] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawnsBase.PostIdeoChosen () [0x00164] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) RimWorld.Scenario.RimWorld.Scenario.PostIdeoChosen_Patch1(RimWorld.Scenario)
+  at RimWorld.Page_ChooseIdeoPreset.DoClassic () [0x00060] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoNext () [0x00035] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page.DoBottomButtons (UnityEngine.Rect rect, System.String nextLabel, System.String midLabel, System.Action midAct, System.Boolean showNext, System.Boolean doNextOnKeypress) [0x000fa] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoWindowContents (UnityEngine.Rect inRect) [0x003b7] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception filling window for RimWorld.Page_ChooseIdeoPreset: System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.PawnGenerationRequest.AlwaysDownedLifeStages (System.String& stages) [0x00020] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest.ValidateAndFix () [0x000c2] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.PawnGenerationRequest..ctor (Verse.PawnKindDef kind, RimWorld.Faction faction, RimWorld.PawnGenerationContext context, System.Int32 tile, System.Boolean forceGenerateNewPawn, System.Boolean allowDead, System.Boolean allowDowned, System.Boolean canGeneratePawnRelations, System.Boolean mustBeCapableOfViolence, System.Single colonistRelationChanceFactor, System.Boolean forceAddFreeWarmLayerIfNeeded, System.Boolean allowGay, System.Boolean allowPregnant, System.Boolean allowFood, System.Boolean allowAddictions, System.Boolean inhabitant, System.Boolean certainlyBeenInCryptosleep, System.Boolean forceRedressWorldPawnIfFormerColonist, System.Boolean worldPawnFactionDoesntMatter, System.Single biocodeWeaponChance, System.Single biocodeApparelChance, Verse.Pawn extraPawnForExtraRelationChance, System.Single relationWithExtraPawnChanceFactor, System.Predicate`1[T] validatorPreGear, System.Predicate`1[T] validatorPostGear, System.Collections.Generic.IEnumerable`1[T] forcedTraits, System.Collections.Generic.IEnumerable`1[T] prohibitedTraits, System.Nullable`1[T] minChanceToRedressWorldPawn, System.Nullable`1[T] fixedBiologicalAge, System.Nullable`1[T] fixedChronologicalAge, System.Nullable`1[T] fixedGender, System.String fixedLastName, System.String fixedBirthName, RimWorld.RoyalTitleDef fixedTitle, RimWorld.Ideo fixedIdeo, System.Boolean forceNoIdeo, System.Boolean forceNoBackstory, System.Boolean forbidAnyTitle, System.Boolean forceDead, System.Collections.Generic.List`1[T] forcedXenogenes, System.Collections.Generic.List`1[T] forcedEndogenes, RimWorld.XenotypeDef forcedXenotype, RimWorld.CustomXenotype forcedCustomXenotype, System.Collections.Generic.List`1[T] allowedXenotypes, System.Single forceBaselinerChance, Verse.DevelopmentalStage developmentalStages, System.Func`2[T,TResult] pawnKindDefGetter, System.Nullable`1[T] excludeBiologicalAgeRange, System.Nullable`1[T] biologicalAgeRange, System.Boolean forceRecruitable) [0x001f9] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.get_DefaultStartingPawnRequest_Patch0()
+  at (wrapper dynamic-method) Verse.StartingPawnUtility.Verse.StartingPawnUtility.NewGeneratedStartingPawn_Patch0(int)
+  at Verse.StartingPawnUtility.AddNewPawn (System.Int32 index) [0x00000] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawns.GenerateStartingPawns () [0x0000b] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.ScenPart_ConfigPage_ConfigureStartingPawnsBase.PostIdeoChosen () [0x00164] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at (wrapper dynamic-method) RimWorld.Scenario.RimWorld.Scenario.PostIdeoChosen_Patch1(RimWorld.Scenario)
+  at RimWorld.Page_ChooseIdeoPreset.DoClassic () [0x00060] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoNext () [0x00035] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page.DoBottomButtons (UnityEngine.Rect rect, System.String nextLabel, System.String midLabel, System.Action midAct, System.Boolean showNext, System.Boolean doNextOnKeypress) [0x000fa] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at RimWorld.Page_ChooseIdeoPreset.DoWindowContents (UnityEngine.Rect inRect) [0x003b7] in <cd7169108ea74757aa50c5b33d275c15>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <cd7169108ea74757aa50c5b33d275c15>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
